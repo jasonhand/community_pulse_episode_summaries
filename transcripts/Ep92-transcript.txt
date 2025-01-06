@@ -1,0 +1,265 @@
+[00:00:00] **Wesley Faulkner:** Welcome back to the Community Pulse. My name is Wesley Faulkner. And today we are bringing in a subject matter. That's near and dear to my heart. And this is hiring in DevRel as a person who's currently looking for a new role. I've seen things that I haven't seen before since the last time I was on the job hub.
+
+[00:00:16] **Wesley Faulkner:** To start this topic, we have Jason Han and PJ Hagerty here with me for us to have this kind of impromptu conversation to dive deep into the subject and I'll kick us off with the first question. What do you think is broken with DevRel hiring? And we'll start with you, PJ. 
+
+[00:00:33] **PJ Haggerty:** I almost want to answer, not flippantly, but seriously, what isn't broken with DevRel hiring?
+
+[00:00:40] **PJ Haggerty:** I feel like that's a shorter list. I think that there's a few things that are wrong. One of the things that I think is a general tech issue is that the filtering and distilling of appropriate people and resumes is based on keyword searches and some SEO and maybe some AI magic in [00:01:00] the background.
+
+[00:01:00] **PJ Haggerty:** That's causing people that are completely valid candidates to get booted out of situations. The evolution of DevRel and what that means is becoming a huge factor because I think a lot of people are thinking that it means I get an extra marketer or I get someone who does pre sales or, like we're still fighting this constant battle of defining DevRel.
+
+[00:01:19] **PJ Haggerty:** And I know we talked a little bit in the last episode about DevRel maturity, but I still think that a vast majority of our jobs revolve around explaining what we do. And then you just add to that the glut of people who want to be in DevRel versus the hyper minority of people who are actually experienced in the job.
+
+[00:01:39] **PJ Haggerty:** But because there's so many people there's a big signal to noise ratio issue. A lot of people want to do this. But the actual signal, the people who are qualified, the people who are experienced, the people who can do it is a very limited number of people. And I think all of those things contribute to the currently horrible, frankly, horrible situation in hiring [00:02:00] endeavor.
+
+[00:02:00] **PJ Haggerty:** And I know that. Wesley, you're going through it right now. I think a lot of our listeners know I just finished going through it a few months ago, and it was like a 7 month slog of absolutely nightmarish hiring practice. 
+
+[00:02:11] **PJ Haggerty:** What do you got, Jay? 
+
+[00:02:15] **Jason Hand:** What I got was that, I agree with all of that. And as somebody who was laid off a little over a year ago, spent a good amount of time and energy into the whole process of submitting resumes and going through rounds and rounds of interviews and also doing that while injured, it was not a great experience.
+
+[00:02:35] **Jason Hand:** So I empathize with everybody who's been through a layoff-like situation. Because it is, it's traumatic. And to find them for myself, a place that has been a good landing and a good, just opportunity for me has, I think I've helped, I've seen the full arc, basically. For being super in a low place and then suddenly feeling like, you've returned to what you did [00:03:00] previously and landed on your feet.
+
+[00:03:01] **Jason Hand:** So it's a scary thing in general. And right now from a lot of the folks that I'm close to, Wesley being one, PJ being one there's several others in the industry and the community that I am real close friends with that have also recently been laid off. I feel like a broken record reaching out to everybody and like offering support and saying, I'm going to forward everything I get to you.
+
+[00:03:26] **Jason Hand:** Because one of the things that I guess for me to point out as what's broken or things that I think are broken is I know a lot of people who are looking, but I also know of a lot of roles that are open. If you could just put a finger on what's broken, we can't fill the roles.
+
+[00:03:42] **Jason Hand:** And some of them are there, some of them have changed some of them. Like I think PJ really pointed out a really big problem is there's a mismatch on expectations of what somebody who is a DevRel professional does. And some of that has to do with just language, across different languages.
+
+[00:03:57] **Jason Hand:** Industries and what we refer to as DevRel and [00:04:00] DevExperience. DevExperience at Datadog is quite a bit different from DevExperience at a lot of other companies. And so I have to keep in mind that there's not often a one to one mapping on what people are talking about just within DevRel.
+
+[00:04:12] **Jason Hand:** So that's a big problem right there. When you have a recruiter who only is going off of a script and going off of the details from resumes and job requests. Job descriptions, they don't know the nuance and know that there's this language thing. So that's problem number one. I also think that since COVID a lot of us are just rewired or wired to really have a strong allergic reaction to coming back into the office.
+
+[00:04:38] **Jason Hand:** And that is a big problem. I think in general, for a lot of companies is the return to office situations and how that changes. 
+
+[00:04:47] **PJ Haggerty:** 100%. 
+
+[00:04:47] **Jason Hand:** It was just a lot of family situations. They can't just change it, and so that's a whole other episode to talk about, especially the folks and friends over at Amazon.
+
+[00:04:56] **Jason Hand:** I also think in my experience that when I see [00:05:00] some of the job postings that are out there, they're really looking for a unicorn. They're looking for a superstar person. And it's usually like a startup, with the general, like standard, like startup rockstar language, things like that.
+
+[00:05:13] **Jason Hand:** But so they want somebody who's done a lot of stuff and can wear a lot of hats and has a successful portfolio showing that they've done that. In their past but the compensation rarely is even close to matching what you're asking for. You're asking for somebody who's senior or above, but you're paying for some, something that's a little bit more entry level.
+
+[00:05:35] **Jason Hand:** And so I see that a problem too, is like the, just a huge mismatch on expectations versus compensation. And then the last one I'll say is that I think that DevRel has evolved, has changed like everything, and some of the language has changed, and there's new people in the community, and all of that has just caused everything to just change over time, 
+
+[00:05:57] **Jason Hand:** push and pull on what I was talking about with language and what we [00:06:00] refer to as certain things within DevRel. And I also think just the evolution of technology in general, like DevOps, has like a similar problem where it was very clear what all that was. And now it's a little squishy and, but you can point to some companies that are super successful at it and then others where they're like laying off people.
+
+[00:06:18] **Jason Hand:** I think it's, stuff like that is so hard to put a pin on, put your finger on because it's so complex, and it has everything to do with also just economies of the world and upcoming elections 
+
+[00:06:29] **Jason Hand:** and it's like hard to put a finger on how to fix it, so that's what, three or four things for me that don't feel like what's broken, but one of the things I told Wesley and PJ before we got on here is I don't really know. I have the same experience as a lot of people and how bad it is, also some success stories in there, but I don't know if I have any suggestions to help fix it.
+
+[00:06:48] **Jason Hand:** Cause I feel like I'm in the mix trying to fix it. Being part of interviews and the process of hiring and now not just being somebody on the sideline, who's just complaining about it. Like I'm actually part of the system now. So it makes me part of the [00:07:00] problem, and I don't know if I have a real clear solution. So that was my one fear of, the subject today. 
+
+[00:07:09] **Wesley Faulkner:** We could, the first step is acknowledging that there's a problem. 
+
+[00:07:12] **Jason Hand:** There is a problem 
+
+[00:07:13] **Wesley Faulkner:** initially that if people don't understand the landscape, then that's step number one.
+
+[00:07:17] **PJ Haggerty:** Yeah. I think there's an expansionist too. This is a tech in general problem. Cause Jason, you brought up a few things and I know Wesley, we haven't asked you what you think the factors are but just to dial in on something that Jason said, this is a tech wide problem, I think, where it's like, Hey, you know what we do when we interview people, we have an inexperienced HR person who is not technical go through a system of preexisting documentation that says, this is what we want.
+
+[00:07:44] **PJ Haggerty:** And it's kicked out. Maybe they chat to you, PT it, put it up on LinkedIn and they said it's nice to have, but the HR person thinks that's a must haves. So you've already lost yourself with one level of filter. Then we have 17 interviews. And then one of them's a technical interview where we make you write code.
+
+[00:07:58] **PJ Haggerty:** Yeah. This is still a [00:08:00] problem for tech in general, DevRel specifically, but tech in general has not figured out how to hire people. No one has disrupted the hiring space looking at your startups. None of you have done it. You tried with a glass door and greenhouse and all of those, all those are just apps to do the same thing that monster did in 1996.
+
+[00:08:19] **PJ Haggerty:** Like you're not doing anything new. Nothing's been disrupted. You just change the name of your website. None of the three of us on this call, or probably anyone who's listening has the power to do this on a large scale, but I think it's worthwhile talking about it because the more people talk about it, more attention is brought to it.
+
+[00:08:36] **PJ Haggerty:** Sorry, that was my little rant. Wesley, what do you think is contributing to this issue? 
+
+[00:08:42] **Wesley Faulkner:** One of the things that I think is part of it is I know you mentioned about the ATS the applicant tracking systems that don't have the right keywords or something going through that, but also as a person who's just trying to use whatever these employments are.
+
+[00:08:57] **Wesley Faulkner:** Websites are, I'm not going to name any by specifics, [00:09:00] but DevRel is not really a drop down. You can do marketing, you can do sales, you can do all these different things. DevRel as a profession is not listed as even a way to be discovered or to label yourself. And so that means that you are more prone to being abused or skipped over by keywords because that is the primary way of how they find people rather than people who are doing the profession already.
+
+[00:09:22] **Wesley Faulkner:** So I think that's one of the ways it's just not being able to identify yourself as a candidate for a specific industry or role. The other is. 
+
+[00:09:31] **PJ Haggerty:** No, I just agree with you. 
+
+[00:09:32] **Wesley Faulkner:** Yeah. The other is getting past these JDs looking at them because of this lack of understanding about DevRel, they really are looking for the unicorn candidate by putting a whole bunch of things there.
+
+[00:09:44] **Wesley Faulkner:** But what is also missing is the thing that they're trying to fix or solve or why they need a person who is in that position. So they're really focused on getting the right person and so as a candidate, it's harder to self-identify your [00:10:00] alignment with the job and a role in a way that's actually more accurate than they say, we need someone with this many deals of experience or this doing this industry, and so on and so forth with her just characteristics of a person rather than someone who can tackle an issue. Because let's say I've done DevRel for a lot of database companies. Does that mean that I couldn't do DevRel for an analytics company? I think that they're exactly, 
+
+[00:10:26] **Wesley Faulkner:** So they're listing the things that they're needing rather than listing the problems, which means that, yeah, I guess I don't check all the boxes, but I don't understand why that it's a box that needs to be checked related to what you need after getting through the phone screen or interview process is just understanding, like it's, and that gets to my last point, which is a big majority of DevRel is being hired by people who don't know DevRel.
+
+[00:10:50] **Wesley Faulkner:** And I know we've touched on this, but it's also a little bit more than that. So even when I've had interviews with directors of DevRel [00:11:00] or VPs of DevRel or heads of DevRel or people who have done DevRel or are currently doing DevRel. It can be one myopic in terms of they've only done DevRel at that company.
+
+[00:11:11] **Wesley Faulkner:** And so that they're in that kind of comfort zone of how DevRel is done there, and they're looking to replicate that. Or number two, they may have more experience doing DevRel. The rounds and rounds of interview that you were mentioning, PJ. Sometimes it's like you talk to someone in marketing, you talk to customer service, you talk to all these other departments that need to get a buy in for this role, where if it was in the other role, you wouldn't have to run the gauntlet of all these other departments in some ways, good, but it amplifies the error or the problem where people are giving opinions based on their own experiences, being someone in sales or being someone in marketing or being in someone in product, not saying that they shouldn't have a hand.
+
+[00:11:51] **Wesley Faulkner:** And the interview process, but they think what they know, being a practitioner is way different than banning an armchair [00:12:00] quarterback and saying I think you should have passed, not run on that play, or he should've gone for it on fourth down.
+
+[00:12:05] **Wesley Faulkner:** It's easy to make that call when you don't have the skin in the game and you don't know all of the context. And I think that's the art part of the problem with the interview loops. 
+
+[00:12:13] **PJ Haggerty:** It's a funny cause. On both sides is as an interviewer and an interviewee. I've had situations where I've been interviewing someone, I'm like, I have no idea why I'm interviewing you.
+
+[00:12:22] **PJ Haggerty:** It has nothing to do with what I do. You will not work with my department. I think they just randomly wanted to throw an extra person on for culture fit, which is such a bullshit term. And then on the other side, I've had people that I'm interviewing for the job and they've told me straight up, they're like, I don't know why I'm the person interviewing you.
+
+[00:12:37] **PJ Haggerty:** I'm not sure why I'm here, except for there's some sort of org chart somewhere that draws a line between me and what you might be doing. And it's not unusual. But I think that also going back to one of your earlier points, when you mentioned that a lot of times these job descriptions are saying we want X, Y, and Z.
+
+[00:12:55] **PJ Haggerty:** And we're going to build it this way, but they're not telling you the problem. The [00:13:00] one of the things that I found tripped me up a lot of interviews, I'd say, okay, so what problem are you trying to solve with DevRel? What's not being met right now with what you currently have? Why are you hiring for DevRel?
+
+[00:13:11] **PJ Haggerty:** And people really don't like it when you ask them why they're doing the thing that would give you the job. I'm relatively sure I probably missed out on some opportunities, not just because of my smart mouth, but because I really need that question answered. What do you think? Dev rel is what do you think a dev advocate does?
+
+[00:13:28] **PJ Haggerty:** What do you think I'm going to do in this role at this company? This isn't a, where do I see myself in a five year situation? What is my day to day? What do you think it's supposed to be? Don't ask me. I already know what the job is. I've been doing this for 15 years. You got to tell me if you actually are trying to hire the right person.
+
+[00:13:47] **Jason Hand:** Yeah, I think it's a mixture. I don't know if it's an intentional bait and switch either. ~~That's just the thing I get a little confused about. Yeah, ~~
+
+[00:13:50] **PJ Haggerty:** ~~I shouldn't make it sound like it's some sort of~~ people are just literally, they don't know what they're looking for.
+
+[00:13:54] **Jason Hand:** Yeah, I think it's probably a majority of that. I do think that there may be some times out there where [00:14:00] people are just like, Yeah, I've seen some other companies have success in dev rel, and we want some of that 
+
+[00:14:04] **PJ Haggerty:** and I think with startups, sometimes it's a, the board or the investors come in and say, Hey, we've got things that you should do yet, things that you should do.
+
+[00:14:12] **PJ Haggerty:** And one of the things is to hire a developer advocate. And I've seen that at companies that don't have a consumer and or developer facing product, and it's like, why? 
+
+[00:14:22] **Jason Hand:** Yeah. I remember I, maybe I was, I thought I was telling you about this PJ, but maybe it was somebody else. I'm on TikTok occasionally.
+
+[00:14:29] **Jason Hand:** And I came across this one story that I was like, Oh, actually that's a very similar kind of metaphor for what's going on in DevRel and probably some other places too. But there was this story of this woman who found a job listing online, applied for it, and did an online interview. Everything was great.
+
+[00:14:47] **Jason Hand:** It was like a sales role, I think. And then eventually you had to go to the site for training. And then it wasn't until, and that was probably like the fourth interview or something that happened. And it wasn't until [00:15:00] she got there that she learned that the first thing you do is you go and work like a kiosk at the mall.
+
+[00:15:06] **Jason Hand:** And then from there, you graduate and go to another place. And then you finally would get to the actual job that she thought she was applying for in the first place. Hopefully doesn't apply to a lot of dev rel, but I know that, in general, people aren't always forthcoming in high turnover positions.
+
+[00:15:25] **Jason Hand:** And I think maybe there's this conception that what I fear, the biggest thing for a lot of people in our community is that they don't realize that their own personality, like their own online presence, like they're themselves, what makes them unique is. Is the value. And so if you damage that by saying, in any way, really, then you've diminished your own value.
+
+[00:15:49] **Jason Hand:** And a big part of that is being challenged, I think, with a lot of the just mismatched understandings of what DevRel does, 
+
+[00:15:59] **PJ Haggerty:** right. And [00:16:00] I think that we still have an issue with some people who really want to get into DevRel because they perceive it as this.
+
+[00:16:06] **PJ Haggerty:** Lifestyle party. I'm going to travel the world. And it really, it wasn't that before COVID. And it really isn't like that now. I think the people that I saw that even a good bulk of their work was conferences and speaking and doing speaking engagements. A lot of those people are not doing that so much anymore, and they're doing other kinds of content.
+
+[00:16:26] **PJ Haggerty:** They're doing videos, they're doing podcasts, they're doing, whatever, webinars. But like not the number of people that are still, hardcore road dogs, being being out and doing 25 and 30 conferences a year, that number has diminished to a near to zero number.
+
+[00:16:43] **PJ Haggerty:** There's just not that many people doing it anymore. So if you're coming into DevRel and you're thinking, I'm going to have this great life where I travel all the time and it's going to be easy and you have very little experience and very little technical know-how. I'm going to ask you to do us all a favor for those [00:17:00] of us who are looking for jobs and don't apply.
+
+[00:17:03] **PJ Haggerty:** Don't apply. This isn't a job for you. We're not influencers. We're not. Instagram, TikTok stars. 
+
+[00:17:09] **Jason Hand:** Only watermelon, 
+
+[00:17:10] **PJ Haggerty:** watermelon. Like three people get that and the rest of us will move on. But if you're looking for a job where you can travel and.
+
+[00:17:17] **PJ Haggerty:** Don't worry about the technical repercussions of the things that you do. Join an airline or something. Don't get into DevRel. The flood of people that are not qualified to do this job, I think, are another major factor of why we're not able to get hired when we have lots of experience.
+
+[00:17:32] **PJ Haggerty:** Because it costs a lot of money. And it's not like an exorbitant amount of money. I don't get paid as much as middle management execs that do basically nothing all day. But, it does cost a lot to hire me because I have years of experience. Those who are hiring should not cut corners and say I'll hire someone who has very little technical experience and very little DevRel experience just so that I can pay them less than 100, 000 a year.
+
+[00:17:56] **PJ Haggerty:** This is, I think, another reason why we're not getting, we do [00:18:00] command a higher set salary and in the same way that I think with engineers that's going away. I think we have to start working on what it is. We're what value we're bringing to the situation that makes us earn that high level of pay.
+
+
+
+[00:18:16] **Jason Hand:** No, I have something to come. I'd like to come back to that too, because I feel like we don't really focus on hiring junior people, junior level people as much, and we don't really have a method of bringing people up from let's say new recruits out of college internships, stuff like that, maybe you see it here and there, but generally speaking, it's not.
+
+[00:18:34] **Jason Hand:** So I'd love to come back to that because I do think that there's space for people who are more junior, but like you pointed out, there's lots of us who have been doing this for a long time. And we take on a lot of the responsibilities and just, there's a lot more things that we can accomplish, than a junior person.
+
+[00:18:50] **Jason Hand:** But I want to go back to, Wesley was talking about during your process of looking for new jobs and it's frustrating because a [00:19:00] lot of the systems that are out there using keywords and there's probably AI involved to do a lot of filtering and sorting and stuff like that. I'm just curious about your thoughts around if.
+
+[00:19:10] **Jason Hand:** There is some automation being put in place, or if there's just something that's making it so that the keywords are so important, what prevents people from just putting in all the keywords to help them, basically game the system and try to increase their odds. Or you think that's what people are already doing and that still doesn't.
+
+[00:19:29] **Jason Hand:** Still doesn't like help. 
+
+[00:19:32] **Wesley Faulkner:** I think because it's the eye of the beholder there, when you're talking about DevRel, it could be any tool based developer plus whatever company. And so that's what an infinite amount of keywords that it could be. For instance, social media needs to be a keyword there. For someone who's looking for someone to post on social media, but also let's say I wanted to work on technical documentation.
+
+[00:19:55] **Wesley Faulkner:** Does that need to be there too? Since DevRel is also very [00:20:00] vast and very distributed in that way. You could overload it with keywords, but as a job seeker getting quality roles or getting filtered on the other end of what roles you're qualified for. It also poisons that as well.
+
+[00:20:17] **Wesley Faulkner:** So when you put all the stuff into these systems, did you start getting it? Oh, DevRel like real estate. 
+
+[00:20:26] **PJ Haggerty:** Or like a social worker? 
+
+[00:20:27] **Wesley Faulkner:** Yeah. If you have social media Ooh, maybe you want to do social work. I've had that experience as well as where you put too much stuff in there and you, and it just makes it it's so much that it's, you have to do all the filtering on that, that in as well.
+
+[00:20:39] **Wesley Faulkner:** It's a cat and mouse game in which. Either way, the candidate loses,
+
+[00:20:47] **Wesley Faulkner:** I don't know if that answers your question. Yeah. 
+
+[00:20:48] **Jason Hand:** And there, yeah, no, it does. And there are a finite number of roles open at any given point too. I think it's, that's interesting the way you put it, because it [00:21:00] makes me feel like, we wear so many hats and have so many different skills that we even get pulled into other, Industries and just other areas of working opportunities that we probably wouldn't take in general, but there's some crossover there that, whether it's a good crossover or not I don't think any of us are looking to be property managers at the local community building, in our neighborhood or something, ~~ yeah, just.~~
+
+[00:21:23] **Jason Hand:** ~~I think ~~
+
+[00:21:23] **PJ Haggerty:** ~~if the, I consider it ~~if the payer, 
+
+[00:21:24] **Jason Hand:** my, in my experience, the recruiters, the ones who are looking are also running into that same thing. Like they're looking for Wesley. But for some reason they can't find Wesley, so that in order to find a Wesley there, they know all the things about Wesley, but all that does is bring them a list of not Wesley's and nobody's happy.
+
+[00:21:44] **Jason Hand:** And 
+
+[00:21:44] **PJ Haggerty:** All that's because Wesley, I'm Wesley. I forgot that keyword. What's your name on it, man? Yeah. You should probably put your name, Wesley. I figured out the problem. You haven't been hired because you have to put your name and [00:22:00] email on the resume, or they can't contact you. I think that, that checklisty kind of AI thing is a part of it.
+
+[00:22:06] **PJ Haggerty:** I discovered working with some insider folks that the reason why people don't get hired often has nothing to do because we should take it into consideration. Let me boil this down to what I'm actually trying to say. We should take into consideration the other side.
+
+[00:22:20] **PJ Haggerty:** There is a burden as well. And that burden is that they are seeing thousands and thousands of resumes or submissions or LinkedIn applications or whatever. They are missing tons and tons of these things and they have to sift through them fairly quickly. So they have to build up a tool base. It says I can easily get through this.
+
+[00:22:41] **PJ Haggerty:** I almost think there should be some sort of service that says, I specifically help you hire for DevRel and we answer those questions up front so we can get through all of the bullshit and get you to the point of meeting with the candidate faster.
+
+[00:22:54] **Jason Hand:** And I think it has to be clear too, because there's two, one, there's two avenues here to help you with [00:23:00] connecting with the right people. That one problem is just finding Wesley. 
+
+[00:23:04] **Jason Hand:** But then 
+
+[00:23:04] **Jason Hand:** the second problem is once you've got him, don't fuck it up. Don't fumble here, and that's the part. I don't think that there's a lot of guidance on either, like because it's probably different in a lot of different places, but everybody has a different idea around what DevRel should be and things like that. 
+
+[00:23:19] **PJ Haggerty:** Yeah. And as you go along, there's people that are, if there's people confused about why they're part of the process, they don't know why they're meeting Wesley.
+
+[00:23:26] **PJ Haggerty:** They're like, he seems like a nice guy. We had a great conversation. I don't know what the hell DevRel is. What are you asking me right now? 
+
+[00:23:33] **Wesley Faulkner:** Absolutely. I also just like to dovetail on this like fumbling the bag, as they say I was going to point out the three ways while I'm not a good candidate.
+
+[00:23:41] **Wesley Faulkner:** And through this interview process, and probably a lot of people can identify with this going back to what is DevRel I think that there is a misconception of, or the poisoning of the well, using that term again, of the DevRel influencer and people wanting someone to go viral, to Make [00:24:00] tons of video content, have a huge social media following.
+
+[00:24:02] **Wesley Faulkner:** I still see that listed on the job description is what they want as a person. And I think that the DevRel influencer is something that feels short lived, like it was a thing. And then those people are still like, not as prominent as they were. 
+
+[00:24:22] **PJ Haggerty:** Yeah, it lasted less time in the confederacy. 
+
+[00:24:24] **Wesley Faulkner:** And that's still what people are looking for and thinking what dev rel is. And so I've seen that and I'm not one of those people. So I think that's part of the issue where I wash out. The other thing is the questions on how would you fix X or how would you approach this? Or what is, how do you dev rel?
+
+[00:24:42] **Wesley Faulkner:** Looking for definitive Answers for these very vague questions is something that I struggle with because you might be an early startup where you don't have a name for yourself. So awareness is something that's important. Or you're in an industry where it's brand new and people don't really [00:25:00] know that it exists and, or the terminology.
+
+[00:25:02] **Wesley Faulkner:** And so you have to do a lot of education where you have to tell people that. This is even a problem and educating them on this and why a solution of this will make their lives easier. Or it could be like a brand that's been around for years and everyone knows about, but maybe they have 5, 000 products and there's a new one.
+
+[00:25:20] **Wesley Faulkner:** And so you have to make sure that you can stand out between your 4, 099th product. And I have to say this 5, 000 products is actually something that's should, you should pay attention to, or it's iterative and it's a 2. 0 or a 3. 0 and why should you care if it's filled, is it incremental?
+
+[00:25:39] **Wesley Faulkner:** Or is it, there, there's a lot of problems within dev rel and there's a lot of companies and company positioning where not one approach works for everyone. It's extremely bespoke to understand not only what the problem set is, the company set is, but what resources do you have? Are you, do you have an agency that you're working with?
+
+[00:25:57] **Wesley Faulkner:** Is this internally? Do you have resources? Do you [00:26:00] have a budget? Do you have a travel budget? There are so many things that limit not only what you can do, but how you should do it and when you can do it. Do you have a big conference coming up? Do you have a big deployment coming up? Do you have a big announcement coming up?
+
+[00:26:13] **Wesley Faulkner:** There are some things that you cannot move, but things need to be done before that or around that. All of that stuff comes into how you approach DevRel and how you solve some of these problems. That really is, are you putting in best practices so the low hanging fruit can just, you can see immediate results?
+
+[00:26:29] **Wesley Faulkner:** Or are you reinventing how they've done things and cleaning up like the sloppy DevRel they did before you got hired? There are several different ways. And having to answer those questions can be a real struggle. And what you were saying, PJ, you're like, why are you hiring this? That can be something that kind of hurts.
+
+[00:26:49] **Wesley Faulkner:** And the last one, I'm going to bring this up. And this could be more of a me thing than anything, but job hopping. My tenure for previous roles have been very short. And people don't, I [00:27:00] don't think people understand the volatility that's around DevRel. And that's something that I think I struggle with as well as other people.
+
+[00:27:07] **PJ Haggerty:** Said that and I said, yes. Everybody who's been in DevRel for a while. 
+
+[00:27:11] **Wesley Faulkner:** Yes, absolutely. It's because of some of this hiring process. They don't know what they want. They don't know how to do it. They don't resource it appropriately.
+
+[00:27:19] **Wesley Faulkner:** They are disinvesting. They don't even understand the value of DevRel, they don't see the value in DevRel. So a lot of those things are going into how people do DevRel and burnout is extremely prevalent with anyone who's doing developer relations.
+
+[00:27:34] **Wesley Faulkner:** I think that understanding of the industry from that perspective is something that's also lost on people who are hiring. 
+
+[00:27:41] **Jason Hand:** I feel like the common theme that we I'm hearing here, and I think all of us agree is if you are looking for a place. Make sure it is crystal clear what it is that job is expecting you to do and that it aligns with who you are just as a person and somebody who has to own that [00:28:00] this is me, like I have to be Jason Hand for the future out there.
+
+[00:28:03] **Jason Hand:** But yeah, I think just making sure everybody's on the same page before you go into a job, because. Job hopping, I think, makes it sound like you are leaving on your own every two years.
+
+[00:28:14] **Jason Hand:** There's lots and lots of reasons why people leave their jobs frequently, and I think even for a long time, people were giving advice that if you're at a company longer than a couple of years, it's probably a good idea to start looking somewhere else. Cause you, you're not going to have an opportunity to level up or get a promotion or anything like that, unless you take another job somewhere.
+
+[00:28:34] **PJ Haggerty:** Competing 
+
+[00:28:34] **Jason Hand:** incentives. 
+
+[00:28:36] **PJ Haggerty:** Even beyond that, it seems when I was going through the job search process recently, people always go through your resume, explain why, so you were at this place. Why'd you leave? I was laid off. You're at this place.
+
+[00:28:45] **PJ Haggerty:** Why'd you leave? I was laid off. So how am I to blame for job hopping? If I get laid off every one or two years, that's a little ridiculous. 
+
+[00:28:55] **Jason Hand:** And I think that there's probably filters somewhere that look for people who have shown [00:29:00] a history of not being all in. They come in here and they do short term, they take their paycheck and they go somewhere else.
+
+[00:29:05] **Jason Hand:** And I think that's what people are afraid of. But also there's lots of people who get filtered out because it looks like they did that. And that's not, that has nothing to do with why they've only kept jobs for a couple of years. So it comes down to, I think probably really informed, really skilled recruiters, maybe we need to try to educate recruiters a little bit more on what DevRel.
+
+[00:29:34] **Jason Hand:** We all agree that recruiting, hiring, and DevRel is broken. I think we also just agree like in tech in general, it's broken. There's some unique things around DevRel that seemed to be heavily showing some connection to just mismatch and understanding what the role is.
+
+[00:29:53] **PJ Haggerty:** I think it's cyclical. I think that is. Business either get a better understanding or maybe as more documentation comes up from this, [00:30:00] Linux Foundation group as people are more educated on what's going on in DevRel and who's qualified and things like that.
+
+[00:30:07] **PJ Haggerty:** It should improve. I hope it improves. That's all I can do because otherwise things can't carry on the way they've been going. 
+
+[00:30:13] **Jason Hand:** Yeah, 
+
+[00:30:14] **PJ Haggerty:** so I'm glad Wesley. I'm glad you brought this topic up. I think it's on, it's at the front of a lot of people's minds. Those who are looking, those who aren't looking, but maybe soon it seems like the level of certainty in this job area is definitely gone south.
+
+[00:30:28] **PJ Haggerty:** If it ever was there. So I'm glad we had a chance to talk about it and get to, and I always love when we get a chance to hang out and chat about these things. They become great episodes. I feel like this is a great episode. And I'd like to. Thank everybody for listening. 
+
+[00:30:42] **PJ Haggerty:** Please share with us your research on what you're finding in your hiring situation. So this email has a bunch of areas about blue sky email if you want to info community policy dot. I. O. we're happy to hear from you and we'd be happy to read your messages to other folks. Thank you very much for the privilege of [00:31:00] your time.
+
+[00:31:00] **PJ Haggerty:** And we'll see you next time on the Community Pulse.

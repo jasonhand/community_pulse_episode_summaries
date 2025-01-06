@@ -1,0 +1,141 @@
+Transcript
+
+# After Pulse 89 - Bouncing from DevRel
+
+[00:00:00] **PJ Haggerty:** That was a great episode. Really fantastic. Not just for the content, but I will say it's great because we hadn't seen Taylor and Matt on the podcast in a while. So it was really good to have them back. Especially because I think the last podcast we did with Matt was like, I'm leaving DevRel and this is what's happening.
+
+[00:00:16] **PJ Haggerty:** And then we got to see a couple of years later here, he's doing really well. So that's really good. DevRel then and now. Then and now. 
+
+[00:00:23] **Jason Hand:** And I think we've all had, where 
+
+[00:00:25] **PJ Haggerty:** Are they now? 
+
+[00:00:26] **Jason Hand:** We've all had the thoughts, like what comes after, my, The light has burnt out for me in dev rel.
+
+[00:00:32] **Jason Hand:** What am I, what do I do next? So it was really easy to hear from them. 
+
+[00:00:36] **PJ Haggerty:** And I think the most interesting point he made was, no, he's not really interested in coming back. He is completely happy and satisfied with the work that he's doing, which is fantastic.
+
+[00:00:46] **Mary Thengvall:** Absolutely. And I think it's always fascinating to see and to talk to people who are either thinking about leaving DevRel or have left DevRel to go, okay you've left the official DevRel [00:01:00] titles, but a lot of what you're doing is still the same work, right? It's the stuff that I, when you were in DevRel, I looked at you and went, Oh, you really excel at, And so it's cool to me 
+
+[00:01:14] **Mary Thengvall:** but I think it's a cool thing to remember, because we do so many different things. In this space, if you have one piece that you're really good at, really passionate about, it is possible to take that and make that the core of a new position, right?
+
+[00:01:34] **Mary Thengvall:** Not only is it possible, but people thrive doing it. 
+
+[00:01:37] **Jason Hand:** One of the things about most people who are in developer relations is that we are skilled at learning new things. And I think that's our greatest asset is that we are interested, just Matt was saying he's just like this hobbyist, like he'll just learn and dive in headfirst.
+
+[00:01:53] **Jason Hand:** I'm the same way. I've got way too many hobbies. Because I just, I'm a constant learner and I enjoy the process of learning. If there's a challenge, [00:02:00] I know I can get through it by just learning something, spending the time and investing in myself. And I'm trying to come to grips with something that I think a therapist or somebody told me along the way is like, when you get to a place where you're interviewing and you're trying to put yourself out there.
+
+[00:02:14] **Jason Hand:** You're not just a dev rel, you're not a thing. You are Jason, and they're hiring Jason and he's going to come with a lot of experience and he's got skills that he used to rely on. He's got skills that he has now, but the best thing that we might see on a piece of paper on my resume is that he is a constant learner.
+
+[00:02:32] **Jason Hand:** And so maybe one day I do want to be in product, even though I have zero real background in it, I think that hopefully they see through all that and be like, Oh, but that's Jason.
+
+[00:02:41] **Jason Hand:** And he, we know that he can, pull through. 
+
+[00:02:43] **Mary Thengvall:** And the counter that I would make to that is you have zero, Official title of product manager experience. You have a ton of experience in product management, like tasks and skills and [00:03:00] those types of things. And there's a good friend of mine who's been looking for a new job for probably close to a year now and is struggling because she has customer support experience and product manager experience and customer success.
+
+[00:03:16] **Mary Thengvall:** Customer renewal type of experience. So if you look at her resume, she's bounced around between a lot of these different roles. And one of the things that she's found she has to do is put far less emphasis on these were my titles and far more emphasis on here are my skills. 
+
+[00:03:33] **Mary Thengvall:** Past job experience from her resume entirely and leading with, look, here are my skills. And then you get to the bottom of that single page resume. And if you're interested in my specific job experience and titles, it links back to her LinkedIn. And so it's almost that kind of idea of okay, how do we emphasize here are the skills that I have here, the things that I thrive at doing [00:04:00] the environments that I thrive at.
+
+[00:04:02] **Mary Thengvall:** Most at and encouraged most by right and looking at it from that perspective, I think is a very different approach than many of us take, but can be so helpful in not just this economy, but when we're considering moving to a different type of position. 
+
+[00:04:19] **Wesley Faulkner:** And it makes it hard for describing yourself, describing what you do, but also for others to do the intro, to find things that are good fit for you as well.
+
+[00:04:28] **Wesley Faulkner:** The saying, this person would be a great fit for this role. So I'm going to recommend them because I think we've talked about this before, they could say this person's a good person and they're good at what they do. And they do a little bit of everything, which does not fit with. Companies, the way that they advertise for jobs, they have these titles, they have these duties, and they're looking for the people who fit those, that specific set of requirements underneath each one of those titles.
+
+[00:04:53] **Wesley Faulkner:** And when, one of the things that we're good learners because we're. In that continuous cycle of learning [00:05:00] one, do one, teach one, right? That's the job. And so you're not only learning the thing, doing the thing, but you have to be skilled at explaining it. 
+
+[00:05:09] **Wesley Faulkner:** If you are doing that constantly, there's almost nothing that you can't retain. And so you do that for years and then you have the pub quiz trivia and knowledge about technology, about development, about sales marketing and all the things around it, because that's what the job is.
+
+[00:05:26] **Wesley Faulkner:** And so it does make it difficult to just say I'm the square peg. And I will fit in this square hole. 
+
+[00:05:34] **PJ Haggerty:** A good one. A good problem to have.
+
+[00:05:35] **PJ Haggerty:** Yeah. I think that kind of concept of the jack of all trades master of none. Like it's. It's true and not true. I think that when it goes back to, both what all three of you have just said, we're educators, but educators are educated. At least they should be, in the ideal situation.
+
+[00:05:51] **PJ Haggerty:** Educators are educated and that's why they're good at the things that they do. If I'm able to explain a process to someone, I'm able to explain that process. I can repeat the [00:06:00] process of explanation all that I want. 
+
+[00:06:02] **PJ Haggerty:** And I was going to ask Taylor, but I decided to back off about layoffs and DevRel and hiring and interviewing right now. A lot of the places that are doing this are going in and saying Oh, you need to know, you need to have 80 years of experience doing Python and Ruby and AI and all of that.
+
+[00:06:18] **PJ Haggerty:** I don't need to actually be able to have any competency in any of those languages just because your product is written in it. What I need to do is have the ability to. Piece it all together and explain how to participate in it, how to use it, how to take advantage of your product, tool, API, whatever.
+
+[00:06:32] **PJ Haggerty:** And this is the big disconnect that's currently happening, I think. And why I think a lot of people are like, I'm going to leave DevRel because they're like, I don't have tons of places to be hired in the AI field. Very few of us who have been doing DevRel for a long time have had deep experience in AI.
+
+[00:06:49] **PJ Haggerty:** Where do these AI companies think they're going to hire people? They have to have a better understanding of how the job itself actually works. When you hire a marketer, you say you're good at marketing.
+
+[00:06:58] **PJ Haggerty:** When you hire a salesperson, you say you're good [00:07:00] at sales. When you hire someone in developer advocacy, you say you're good at engineering that you've never done before. That doesn't make sense. But if I say, I can educate them on how to use that should be what they're looking for.
+
+[00:07:10] **PJ Haggerty:** And that's the breakthrough I think we need to have. And we will stop hemorrhaging great DevRel folks. If we start hiring appropriately. 
+
+[00:07:19] **Jason Hand:** There's always so much just debate. It feels like what developer relations is. And one thing that it definitely is, cause this is where I'm spending a good chunk of my energy, a data dog is working internally is working with our engineering team to help them prepare, all hands decks and make them better communicators.
+
+[00:07:38] **Jason Hand:** I mentioned dash the user conference that's coming up. I'm assigned to a couple of different. Presenters that are going to be speaking there and I'm their coach. I'm going to help them all along the way. They're already decent speakers, but I'm going to work with them, from the beginning to end.
+
+[00:07:54] **Jason Hand:** And it's going to be an amazing talk. And that's the relationship, that's developer relations. I'm working with developers [00:08:00] from, I can't mention the names just yet, but like some big name companies. And I'm, Lifting them up, and then where does that map, Matt kept saying things have to map to something with the business.
+
+[00:08:12] **Jason Hand:** It's a little harder to map that, but I do see, I do feel some pride when somebody that I worked with is now on screen or on stage and they freaking crush it, and not a lot of people know I influenced that. And that's hard because you can't put a metric to that.
+
+
+
+[00:08:27] **Mary Thengvall:** Also, it's something you don't want to brag about too loudly publicly. Because you don't wanna make that other person look bad and go 
+
+[00:08:36] **PJ Haggerty:** you also don't wanna seem like it, you don't, you don't wanna seem like an asshole. Exactly. So I totally, yeah, I totally created the situation where so and so became a wonderful speaker. You're welcome. World , 
+
+[00:08:45] **Mary Thengvall:** like exactly. Exactly. And so because of that, I think there's a lot of other things that we do really well that just aren't ever seen and are difficult to point to if we want to [00:09:00] maintain those relationships, 
+
+[00:09:00] **Wesley Faulkner:** yeah, exactly. And most of us are career switchers who find themselves in. DevRel. And so not only are they learning new skills and doing this kind of integration with different departments, but they're bringing in a whole host of previous life experience that does help them.
+
+[00:09:16] **Wesley Faulkner:** That does enhance where they have their perspective on things, but then also doesn't necessarily come into context of what we talk about. For instance, I was a product development engineer for AMD for five and a half years, where I helped bring products to market. For OEM systems. And before that I did onsite deployments and emergency break fix for Dell.
+
+[00:09:37] **Wesley Faulkner:** And I worked there for six years. And so I was in front of the C level suite. Executives explaining the products and what went wrong and how we solved it. And coming up with a mitigation plan, that stuff doesn't come up in interviews. 
+
+[00:09:50] **Wesley Faulkner:** It feels like it complicates the thing. I ran for city council of Austin, ran a whole campaign, created the whole and met with constituents and did all of the [00:10:00] stuff and the debates, all that stuff doesn't ever come up really. But. When I'm in those situations, when I'm trying to defuse a customer or a client that's having an issue when I'm taking Q and a after a talk and someone is wanting to complain about the company stance on a certain issue or how a feature is not created or that addresses their problem, those All come into play.
+
+[00:10:27] **Wesley Faulkner:** And, but it's hard to say and to say how valuable it is. And it's almost like when I did it, people notice things when something goes wrong and they get corrected, but they don't really notice the things that never become a problem. Absolutely. 
+
+[00:10:42] **Mary Thengvall:** And this is something that we chatted with Matt and Taylor a little bit after the recording was done, ~~but.~~
+
+[00:10:47] **Mary Thengvall:** ~~Don't tell people about~~ 
+
+[00:10:47] **PJ Haggerty:** the secret 
+
+[00:10:48] **Mary Thengvall:** tell them about the secret after posting. But Wesley, this goes back to your point that a lot of us who have been in the DevRel space for a while now got [00:11:00] here through a sideways path, right? We stumbled into this because of our other areas of experience.
+
+[00:11:07] **Mary Thengvall:** And I think that's one of the biggest issues that I'm starting to see right now. Like I have nothing against people cobbling together their own type of college resume and their own learning path to figure out, Hey I know people who do Debrel. I want to do Debrel. Can I do that straight out of college?
+
+[00:11:27] **Mary Thengvall:** That's fine. But the problem that I'm seeing is. Those of us who are more experienced who are getting tired of having to fight for What I do is important and here's explaining what I what my job is and doing it, you know in hard mode like taylor mentioned if all were Left with at this point is people who haven't had other roles don't have other job experience or coming into this as 22, 23 year old going, cool.
+
+[00:11:57] **Mary Thengvall:** I have my college degree and I now [00:12:00] know how community management works and how developer relations works and everything else. They're then trying to basically redefine DevRel without any of that. experience. 
+
+[00:12:11] **PJ Haggerty:** Historical context. 
+
+[00:12:12] **Mary Thengvall:** Well, 
+
+[00:12:14] **PJ Haggerty:** and this goes to what Matt was talking about.
+
+[00:12:16] **PJ Haggerty:** Tired of fighting that fight and explaining what we do. If you come along and you don't have the history of what we've done, you have no desire to fight for what it is that we do or what this job is, you don't care about the definition. You don't, and I don't mean to dismiss people like that. I'm not trying to gatekeep, but honestly, you don't feel the passion.
+
+[00:12:34] **PJ Haggerty:** If you just came into the job, I was like, Define DevRel, and you're like, it's the job that I'm doing right now. If you don't like that, I'll go find a DevRel job somewhere else. Part of the want to keep doing this job is to keep redefining it, keep it evolving, and keep proving that there's a reason why we're about.
+
+[00:12:50] **PJ Haggerty:** But if you don't have the historical context, you don't know how to fight that fight. 
+
+[00:12:54] **Mary Thengvall:** Yeah, 
+
+[00:12:54] **Wesley Faulkner:** right. And the one way of preserving that historical context is promoting [00:13:00] leaders in dev rel to higher positions. Absolutely. To be able to not only make those calls, but have that influence to make those judgments about what direction the company should go in and also who.
+
+[00:13:09] **Wesley Faulkner:** Yeah. Who should be rewarded and what skills should also be reinforced so that it makes sense for you to keep developing those skills so that you can progress so that you can move up. And that's one of the things currently in this DevRel environment is that the senior leadership so few of them are from a traditional DevRel background.
+
+[00:13:29] **Mary Thengvall:** Mhm. Agreed. And I think that's such an important point, right? That if you are moving out of DevRel into other leadership positions, keeping an eye out for people who are in DevRel, right? Keeping an eye out for people who are in those roles. And I know Matt and I have talked about this before.
+
+[00:13:45] **Mary Thengvall:** This is something that he does, right? He is no longer in DevRel, but definitely continues to have those conversations, and continues to support people who are doing it because just because he doesn't want to have to fight for [00:14:00] that conversation anymore. 
+
+[00:14:02] **Mary Thengvall:** It doesn't mean he doesn't have that context and experience to be able to help other people do it as well. 
+
+[00:14:07] **PJ Haggerty:** I 
+
+[00:14:08] **Mary Thengvall:** know. I do want to wrap it up in PJs. I know you normally wrap up with a quote, but you mentioned the after pulse, none.
+
+[00:14:16] **Mary Thengvall:** However, that's only half of the saying. And I think this is a really applicable time to bring up that other half. Because the full quote is actually a jack of all trades is a master of none, but oftentimes better than a master of one. Know more, have more context, learn more quickly than a lot of people who have only that single deep knowledge of that one topic so something to keep in mind for all of us and we'll see you next time on the next community pulse Thanks for joining.
+
+

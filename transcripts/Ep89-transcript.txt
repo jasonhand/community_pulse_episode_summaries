@@ -1,0 +1,287 @@
+       [00:00:00] **PJ Haggerty:** Developer Relations has gone through quite a few changes over the last few years. Along their journey, they moved away from DevRel, but they still use those abilities in new ways. So what is it like when you bounce from DevRel?
+
+[00:00:19] **Mary Thengvall:** To talk us through this career progression, we have two amazing guests with us today. One of whom has moved on from DevRel and one who's been considering it. Taylor and Matt, would you mind introducing yourselves? 
+
+[00:00:32] **Taylor Barnett-Torabi:** Yeah. So hi, I'm Taylor Barnett Torabi. I have been in tech startups for about 10 years now for starting in engineering.
+
+[00:00:40] **Taylor Barnett-Torabi:** And then about the last nine years, I've been in more dev rel roles, often more senior developer advocate roles, and those have looked at all developer focused startups for the most part, four different ones over the last nine years, a large part of my focus had been bridging that gap between developers and in the [00:01:00] community, and I wore a lot of different hats.
+
+[00:01:02] **Taylor Barnett-Torabi:** A lot of my exploration of where I want to go next has been exploring those different hats and which one might be a good fit for the future. 
+
+[00:01:11] **Mary Thengvall:** Awesome. Thanks so much for being here. 
+
+[00:01:13] **Matt Broberg:** Hey friends, Matt Broberg. I am a director of product management at Target.
+
+[00:01:19] **Matt Broberg:** I'm not representing them at all here. This is purely a community connection point for me. I am focused on cloud infrastructure for a large retailer and it's public and private cloud. 
+
+[00:01:30] **Matt Broberg:** All the infrastructure stuff I've been doing for about 15 years now. Started in tech support. Got into engineering, bopped into marketing. Once I realized I needed to talk to people more and eventually through the startups and different phases of life, I landed in product because it seemed like a nice in between that we'll get into more.
+
+[00:01:52] **Wesley Faulkner:** Thank you. It's awesome to have both of you here. The first question is related to your journey to where you are, Matt, you [00:02:00] alluded to bouncing around and changing. My question is. What would you say would be the, all of the factors that caused you to consider leaving developer relations? You mentioned some environment, personal skills.
+
+[00:02:14] **Wesley Faulkner:** Is it, how much of it was internal? How much of it was external? Could you just tell us a little bit more about that? 
+
+[00:02:19] **Matt Broberg:** Sure. Sure. Yeah. The leaving dev rel framing of it is an interesting one to me because I don't know if it was a result of goals I had or just or actually really intentional and I didn't.
+
+[00:02:32] **Matt Broberg:** Tell myself that, but I think at the point where I was making a decision, where to shift, I noticed two things in my life that weren't working anymore, one the travel and commitment of that was inherent to developer advocacy. If you're going to be a strong leader there, you may be on a plane at any moment and you certainly will be going somewhere or connecting with someone in person at least once a month at a minimum is what I found.
+
+[00:02:59] **Matt Broberg:** [00:03:00] And I wanted after COVID to be a real, wild time for all of us to put it way broadly, very quickly. But a moment of reflection where I realized I didn't want to do that anymore. And personally, my. My partner and I decided to start having kids. And as soon as I thought about my job and that intersection, I'm like, absolutely not.
+
+[00:03:25] **Matt Broberg:** And then it was a question of skills. Like I, the thing that was absolutely at the root of it. One of the many root causes is, as you could say, that I spent so much time in DevRel explaining what my job was and what my job wasn't, as opposed to just doing my damn job. And I was really sick of that.
+
+[00:03:44] **Matt Broberg:** Ironically, I still do a good bit of that in product, but it just feels so simple comparatively, there's only one or two jobs they expect, not 15. So I think it comes down to clarity of role family and just needing a change in that way. [00:04:00] Yeah. 
+
+[00:04:00] **Wesley Faulkner:** Taylor, what caused you to question the direction that you want to take? 
+
+[00:04:04] **Taylor Barnett-Torabi:** Yeah. I went through a layoff in March. And so it was like this time for me to question what's next. I had always considered it. Leaving DevRel for something else over a longer period of time, I didn't think DevRe lnecessarily for me was Something I was going to do for, 15 20 years straight I knew I was committed to spending a really long time there I had this weird goal of 10 years, potentially almost 10 years I just saw so many folks burn out over the years and was like, I want to do this in a sustainable way that I can do this for many years to come.
+
+[00:04:42] **Taylor Barnett-Torabi:** Not to say that, that hasn't really changed. For me, more was about thinking of all the different hats that I had been wearing. Over the last nine years, product marketing, even a little bit of support, worked with the engineering teams on different things, like all the [00:05:00] different ones, working with sales.
+
+[00:05:01] **Taylor Barnett-Torabi:** Like I just, I'd been, I'd worked with pretty much every single team there was. And then at times I was like a technical product marketer, yeah, sure. I can write some copy if that's what is needed or whatever that thing was. Including for me, that was product management. Last year had an experience where I was basically the PM for a new API, he was taking our internal API, making it public and all the work I did from Ideation through launching it, it was PM work.
+
+[00:05:33] **Taylor Barnett-Torabi:** And it took me a little bit to accept that yeah, I was the PM for that. We didn't have PMs as a formal role in my last company. Often in the absence of a role, somebody steps in and does that. But also, I felt like the type of developer advocacy that I had been practicing and that I'd been selling companies on when they hired me was.
+
+[00:05:52] **Taylor Barnett-Torabi:** Listening to users, figuring out ways that we could bring that feedback into the company and actually build [00:06:00] better products from it along with all the other traditional, developer relations type activities outside of that. And I feel like doing that, I realized. I'd been doing it on hard mode, doing it from a devil role, often in my case, sitting under marketing, which I have no issue with 
+
+[00:06:19] **Taylor Barnett-Torabi:** it was actually one of the things I care pretty much the least about. It just made all of that really hard. And so it really gave me like, okay, what if I actually tried to do a product from like an actual product org. In a PM role. And that's what I've really been exploring.
+
+[00:06:40] **Matt Broberg:** That's a, I loved hearing that Taylor in particular, cause I think you're hitting on something that I hope will help others think through their own career journeys a little differently of differentiating what's often smooshed together, like your job title. And the presumed career track of that versus your skills, your job skills, if you want to call [00:07:00] it.
+
+[00:07:00] **Matt Broberg:** And that skill tree that you are working towards mastery and some expertise and where is it transposable to different job titles than before versus like really specific. A lot of what we do in DevRel is incredibly flexible because it's not been around for a while. So that means there are other places we must be able to map to because there's obviously value to the business.
+
+[00:07:26] **PJ Haggerty:** Yeah. I think Matt, you bring up a good point too, when it comes to the mapping to the business idea a lot of times and going back to what you were saying about constantly explaining what it is that we do and Taylor adding to the fact that what do we do? We do everything. There's that issue of like, When, when I first started DevRel, there was no definition.
+
+[00:07:42] **PJ Haggerty:** Then it was like, it's a marketing definition. Then it's a pre-sales definition. Then it's a product and engineering definition. And it's constantly changing and you can't really have the level of stability that you might desire. 
+
+[00:07:53] **PJ Haggerty:** Makes it less desirable, especially when you have a family and Taylor, you mentioned the burnout factor and the instability lens to the fact [00:08:00] that, you're going to burn out because you're constantly doing so many different things, but where did you see where, the intersection of, Oh, I realized that while I'm doing DevRel, my title might be DevAdvocate, but I'm actually like.
+
+[00:08:13] **PJ Haggerty:** a 75 percent of the time product manager. Like when do you say, all right, I realize I'm not doing DevRel anymore. Maybe I need to look at something different. Like when did the light bulb go off? 
+
+[00:08:24] **Taylor Barnett-Torabi:** Part of it is people have actually brought it up to me probably for the last six, seven years.
+
+[00:08:30] **Taylor Barnett-Torabi:** So it's always been there. It was like, I've had managers who have been like, have you ever thought about doing a product? I'm like, yeah, but I'm working in a startup that does not have that as a role. And maybe sometimes was not always kind to the idea of having PMs maybe cause of bad past experiences or for various different reasons, so it pushed me away from it I knew I would have to potentially leave a company to do it basically And then the other thing, yeah, so yeah, managers, people on the community, various, [00:09:00] I've had many people ask me about doing, and I always push it off, maybe down, down the line.
+
+[00:09:05] **Taylor Barnett-Torabi:** Other people were recognizing it, but it took me longer, I think, to recognize it for myself. So there, there was that. 
+
+[00:09:13] **PJ Haggerty:** Sometimes there's that level of self acceptance that we push others. No, I'm a developer advocate. I would never do such a thing. And finally realized, oh, but it is what I do.
+
+[00:09:21] **Taylor Barnett-Torabi:** Yeah. And what you said about the roles constantly changing, but at the end of the day, my goals had not changed. I still wanted to help build technical products and relationships with users that developers love and want to use and pay money for and make us all successful. And, with the definition constantly changing, maybe there was a different place for me to achieve that same goal with a different title.
+
+
+
+[00:09:50] **Jason Hand:** I think Mary's Mary and PJ are much better at going back into the archives of community pulse episodes and like retrieving different conversations we've had, but some of this is [00:10:00] definitely bringing back some memories of People who have transitioned on to other things.
+
+[00:10:04] **Jason Hand:** And it seems like products are not always, but it is common for a lot of people in developer relations. I know for me that was a direction I felt like I might be heading in. And a lot of that was because I, A lot of times, worked with the product team more than anybody else, other than the engineers.
+
+[00:10:20] **Jason Hand:** I wasn't really answering to marketing, I wasn't answering to sales. I loved sort of the building process and sitting next to the engineers and just digging into the technical stuff more than the things that were exposed to me with the marketing and sales types of things. 
+
+[00:10:34] **PJ Haggerty:** You mentioned Jason, because I would actually be curious about people who have left DevRel and maybe, hit us up on socials or, send us a message or whatever. But if you've left DevRel, did you leave for engineering or did you leave for marketing or did you leave for product? Those seem to be the three answers.
+
+[00:10:47] **Jason Hand:** Yeah. 
+
+[00:10:47] **PJ Haggerty:** Did you leave to go start your own company? 
+
+[00:10:49] **Jason Hand:** And a lot of it I think just depends on where you came from. Like some people, we've been burned or we've been turned off to certain departments because of like maybe a bad manager or just, things just weren't [00:11:00] great.
+
+[00:11:00] **Jason Hand:** And also we've been turned on to things, I've been around some really good PMs and Oh, actually it looks interesting to me. And I think I have the baseline skills, but anyway, we, our minds wander into all kinds of things that we could be doing that could pull us away from DevRel.
+
+[00:11:12] **Jason Hand:** And I think the question comes back to me is. But is that still core to who I am? Would I consider coming back if I was in a better situation? Maybe the situation was what drove me to switch. It wasn't necessary that, Matt, you're exactly right. Like I don't want to travel as much anymore.
+
+[00:11:28] **Jason Hand:** Like I can't do it the hard mode. Like you were saying, Taylor, that's exactly what I was doing for so long and then burnt out and then COVID came and wiped the slate clean on like how we do this DevRel stuff. But I still feel myself coming back to it. So I'll start with you, Matt. Sounds like you're loving what you're doing. So probably a better situation, like mentally and physically and just balanced and that kind of thing. But would you come back to develop developer relations? 
+
+[00:11:51] **Matt Broberg:** At the moment, this is probably the first time in my career. I would not consider another job offer at the moment.
+
+[00:11:58] **Matt Broberg:** I think there are a lot of factors [00:12:00] here, but the biggest one being, let's be honest, a little bit of dumb luck. Like I joined a company that is local to me. So I get local connection, which was important to me next. And they are at a stage of evolving a practice that despite not having the title as much as other people I work with, I am well read on it.
+
+[00:12:22] **Matt Broberg:** Not to toot my own horn, but I go deep on something if I'm going to invest in it, especially for career. So I've read probably 20, 30 of the essential product management books. I follow the podcasts. I've gotten to know that community of an ecosystem and I can represent it well. And we happen to be adopting stuff that I'm very familiar with.
+
+[00:12:41] **Matt Broberg:** And I've, then, been able to be really influential pretty quickly relative to people who have been doing the work longer than me. And I think that's in a large part because of my DevRel background, I can hop on a stage and make up a five minute lightning talk in a heartbeat, and I can write a blog post about what we just talked about in a [00:13:00] second.
+
+[00:13:00] **Matt Broberg:** Like I can get a bunch of people talking to each other that didn't want to that's what we do. So at the moment I have no interest in going back, but it's not like Foundationally a problem. I think it's really a question of what kind of DevRel am I going to, which I will, I do want to be honest, the same question happens in product.
+
+[00:13:19] **Matt Broberg:** Is it a product management role where it is business to business or business to consumer? Is it startup or tech or, enterprise is the enterprise, a certain vertical you need to know the parameters of what you're walking into. Just like you do in any of the situations you are in Deborah, but firm no at the moment.
+
+[00:13:40] **Mary Thengvall:** Yeah. And Matt, you bring up a good point there. It's like any job, right? The exact nature of what you're doing, what you're responsible for, how much you're traveling, what elements of your job you're expected to do, right? What elements that you've done in another company you don't have to do [00:14:00] here, right?
+
+[00:14:00] **Mary Thengvall:** Really depends on that position, that team within that company. And that's one of the things that, you know, as I've been building out my team at Komunda, I've been learning, there's some people who go, Oh, developer advocate. Great. I want to do that. And then I do the initial hiring manager interview and they're like, Oh no, that's not the job that I want.
+
+[00:14:21] **Mary Thengvall:** Are you hiring for a dev advocate? And I go, yes, but it's a dev advocate specifically focused on content or specifically focused on travel or specifically focused on this specific. Audience type and persona. 
+
+[00:14:34] **PJ Haggerty:** I don't just get to travel and have an Instagram lifestyle. 
+
+[00:14:37] **Mary Thengvall:** Right.
+
+[00:14:38] **Mary Thengvall:** Imagine that. But I think that's where it comes down to, for some people, it's a matter of, I don't want to leave DevRel, but I need to hit these particular parameters, right? I want a DevRel role that I don't have. Travel requirements, or I wanted a role that has travel requirements that I have to be on the road a [00:15:00] lot, right?
+
+[00:15:00] **Mary Thengvall:** Or I want a PM role because that fits better because of the type of feedback that I like to get and the influence that I like to have on the roadmap and things like that. And so I think for a lot of us the further on we get in our careers, we start to figure out. This is the thing that I really enjoy.
+
+[00:15:20] **Mary Thengvall:** How do I get to do more of that? And I'm curious if that's what starts to lead us either out of DevRel or into much more specific job descriptions and job titles and things like that within DevRel. Taylor, you're nodding a lot. 
+
+[00:15:37] **Taylor Barnett-Torabi:** One thing when I've been looking, I've explicitly said, for example, if I am going to take another developer advocacy role, it's not going to be content focused.
+
+[00:15:48] **Taylor Barnett-Torabi:** I've had lots of people reach out to me for other developer advocacy roles. And as soon as I tell them that they're like, Oh, maybe this isn't a good fit. But I've needed that has be the most powerful thing for me to be able to [00:16:00] say that and feel confident about that.
+
+[00:16:02] **Taylor Barnett-Torabi:** It's definitely a privilege. I'm in a position right now that I can take some time that I don't think. The first time I had layoffs after my first job in DevRel I had that luxury. And so I had to just take the next thing, although it was a great thing anyways, nothing to say that I took something I didn't want, but yeah, it's, I've been a lot more explicit down to just even the product roles that I'm looking at.
+
+[00:16:27] **Taylor Barnett-Torabi:** That is not looking at an internal product, there's different product role PM roles that it's for more internal engineering teams or like platform teams and stuff like that. I'm looking for external developers. I am keeping it bright. I've categorized what types of developers, a little bit different things like that, but yeah, I think it's always really useful to be like, where do you actually succeed like accel at?
+
+[00:16:52] **Taylor Barnett-Torabi:** And I found that. through DevRel, really. That helps me realize what are the types of developers that I work really well with. [00:17:00] And I think that's something you can carry with you to future DevRel roles or future other roles. It could even carry to engineering teams that you join or marketing teams or PMM roles that you join.
+
+[00:17:11] **Taylor Barnett-Torabi:** And that can be a very attractive thing to someone who's hiring to that you have that specific expertise and that you can help level up their team. 
+
+[00:17:21] **PJ Haggerty:** And in some ways you're streamlining the interview process.
+
+[00:17:24] **PJ Haggerty:** You're saying like, listen, these are my needs. I know you're saying, this is your need. This is your job description, and maybe it's good. And maybe it's not as I am also looking for jobs. Generally, it's not a good job description. Take, listen, all you hiring people, rewrite your DevRel, DevAdvocate job descriptions.
+
+[00:17:38] **PJ Haggerty:** You're terrible at it, but you're setting those expectations and you're knocking a lot out of the way. They're like, Oh, so Taylor wants this. We don't need to go through three levels of interviewing and a technical interview and an interview with the CEO, just to know that. She's not the right fit for this.
+
+[00:17:53] **PJ Haggerty:** She already knows she's not the right fit. So maybe folks should take note. If you want to be part of DevRel and you want to continue looking for jobs in [00:18:00] that, define your parameters, set your expectations. And I think also when you're looking at moving out of that, moving out of DevRel, also set your parameters and set your expectations.
+
+[00:18:11] **PJ Haggerty:** No, learn what you do well and focus on that. 
+
+[00:18:13] **Taylor Barnett-Torabi:** Yeah. I literally created a webpage for this and people have read it, hiring people. I even had people who were considering me for one role and based on reading that have been like, We have a different idea because we think this fits you better.
+
+[00:18:29] **Taylor Barnett-Torabi:** People have complimented it even in roles that weren't a good fit, they reached out to me, they read it and then they were like, no, this isn't. But I, they're like, I really like your doc and it's nice and detailed and all these things. It felt good to, cause I was, it was a really scary thing for me to put out there, like putting my stake in the ground and putting it publicly.
+
+[00:18:49] **Taylor Barnett-Torabi:** I did leave some ambiguity of if it doesn't entirely line up, but you think that it, we're somewhat on the same page let's still talk and that, that's worked out sometimes too but [00:19:00] yeah it is a little, it is a scary thing to put a stake into the ground, but I feel like at this point I, I would really struggle to go into another Debra role where we're just not a good alignment.
+
+[00:19:13] **Taylor Barnett-Torabi:** For my own personal reasons, like burnout and happiness. 
+
+[00:19:17] **Jason Hand:** I think earlier when everybody started showing up to call here, I was like, Oh, all these faces I haven't seen for so long. Like the point is we've been doing this for awhile. In fact, we were reminiscing like the very first episode this morning when we were chatting and we're now to a place where like you can say, no, I'm not willing to do that.
+
+[00:19:34] **Jason Hand:** And no, I'm not willing to do this. And this is what sparks my energy. Some of that I think is just, we've learned over time and we've matured and just know what's good for us and what's bad for us. But I feel like that's also a big part of this whole, transition and growth and everything.
+
+[00:19:48] **Jason Hand:** Jason, 
+
+[00:19:49] **Matt Broberg:** You're giving me a thought though. Since we're talking to people who are considering job moves it's also getting to that, just, I'm so impressed by you, Taylor, for what you did, like publishing that I didn't have the [00:20:00] gumption. I was waffling for a while at first. But understanding your own motivation.
+
+[00:20:06] **Matt Broberg:** What I am better at was mapping what is the other, the organization's motivation and really listening for what they need and why they are hiring? So that can reveal a lot of whether you will be the best choice or not. There's one thing I just want like put out there is even if you are a generalist, some of us will identify as generalists since we're pretty broad.
+
+[00:20:27] **Matt Broberg:** No one wants to hire a generalist. They want the best possible person for the one job they have. So how do you represent yourself as an expert in that thing? If you are, and to the degree you are being honest and then feel it out in the interview for the role I had, I've led a number of teams.
+
+[00:20:45] **Matt Broberg:** But I put a stake in the ground when I realized that might have not been doing as well. And I said to the hiring VP, I'm like. Hey, I know the kind of employee I'll be here. I will be able to talk to any of your engineers about what problems they have. [00:21:00] I'll be able to map that back to the user's needs. I'll be able to build a system that's scalable and makes sense.
+
+[00:21:05] **Matt Broberg:** And I'll be in the code with people. I'm not scared of living at that level. If you need somebody who's comfortable with that. That's what I have. If you're looking for somebody who knows retail and can operationalize it in the way that Target does it to date, I'm not going to be able to compete.
+
+[00:21:23] **Matt Broberg:** That was like a real turning point in the interview process where he's yeah, we are considering somebody who has the other skills, but I am thinking we're struggling with what you're describing. Just, don't be scared to at least really draw the contrast at some point.
+
+[00:21:39] **Wesley Faulkner:** That level of self awareness sounds like it really helps with making sure that you try to find the right fit, not just for you to the employer, but the employer to you. And I really value the work that you both did for those who are thinking or considering doing a switch from their Dell girl career.
+
+[00:21:57] **Wesley Faulkner:** I'm going to ask each of you, I'm going to start with you, Matt. [00:22:00] Who did you talk to or resources? Did you utilize outside of yourself? Did you talk to friends? Did you talk to people already in the industry? What research did you do? 
+
+[00:22:11] **Matt Broberg:** Oh, I always start from, we're so privileged that our job is to basically meet amazing people from around the world and in so many different backgrounds.
+
+[00:22:19] **Matt Broberg:** So I started from my people and then honed in on the ones that had the Product leanings really fortunate that somebody in that space that we weren't super tight with before, but started mentoring me in it and basically. I did what I needed, which was to assign me homework. Read these three books, explain them to me, write this thing up.
+
+[00:22:41] **Matt Broberg:** And I felt within two weeks, I had a very quick master's class from somebody who'd built a programming language I respected. Because I was scared to go it alone. So I'm a firm believer and also just the way my brain works. I do need others to help me stay accountable to myself.
+
+[00:22:57] **Matt Broberg:** So that's a huge part of it for me. [00:23:00] 
+
+[00:23:02] **Taylor Barnett-Torabi:** Plus one onto that. It was the people that I knew that were, had either previously been PMs. Who came from engineering, who came from more dev roles, people who up to like chief product officer level folks who had come into a startup as a PM for the first time in their careers and, grew, some large products it was all people who had been through untraditional.
+
+[00:23:30] **Taylor Barnett-Torabi:** Moves to PM. And I say that because I have a computer science degree that some of my classmates upon graduating went into APM or I think associate product manager type roles at your very traditional type companies, Google at the time, Twitter had a really good APM program that I think was pretty well respected and other places.
+
+[00:23:53] **Taylor Barnett-Torabi:** And those were not the right people for me to be talking to because. They grew through those programs and they [00:24:00] came from university and it was just a totally different path. So I needed to figure out what my path would look like and that would be a little bit more traditional. And yeah.
+
+[00:24:08] **Taylor Barnett-Torabi:** And the first time I liked it, I was like Googling interview stuff on YouTube was a very scary time. I did better with buying some books around like PM interviews and stuff. Those were like less I don't know. Content influencer feeling to them. And so that also just helped me start thinking about, are there certain interview skills that I can improve on?
+
+[00:24:31] **Taylor Barnett-Torabi:** And even talking to people who literally had roles that were open to hiring untraditional and getting advice from them. Their advice might be biased to the company that they were hiring for, but it definitely is. Thanks to DevRel build out these relationships that people are willing to talk to you that maybe before would have been a lot more of a cold email or, a lot harder to get into conversation with them.
+
+[00:24:58] **PJ Haggerty:** Yeah, I think that, that kind of [00:25:00] brings us back. How much do you think that DevRel actually helps you get out of DevRel? Like how much do you think about the foundations you build, the relationships you build, all of the people that you meet, whether, you know, virtually, I know I've met a few people that I've actually worked together with eventually and that we never met.
+
+[00:25:16] **PJ Haggerty:** We only ever conversed on Twitter. But at the same time, like through DevRel, I met them and we recreated this relationship. Do you think people who are in DevRel have a leg up when they're ready to get out? They can say, listen, I've got all these things.
+
+[00:25:28] **PJ Haggerty:** I can go use my plethora of connections and leverage my network and go do it. Do you think that they're starting from behind because they've done DevRel for so many years? 
+
+[00:25:39] **Matt Broberg:** Oh man, it's 
+
+[00:25:40] **PJ Haggerty:** just the hardest question I could possibly ask. 
+
+[00:25:42] **Matt Broberg:** I'm like, I'm gonna call a false dichotomy. Okay. I'm trying to boil it down into a question.
+
+[00:25:47] **Matt Broberg:** I respect what you're going for, but like where my brain goes oh man, that depends so much about the individual person and how, what are they actually struggling with this transition? If it's a [00:26:00] identity thing, like for me I threw my identity into DevRel. Like I was on social media platforms every day, talking to you all at, in the night I was podcasting and contributing to open source, it was a real like moment of pulling back the layers of who I see myself as and seeing what's left.
+
+[00:26:20] **Matt Broberg:** If I don't do that stuff and I don't get the immediate retweets that I got. So I think that was the most terrifying foundational thing for me. It didn't have to do with job titles. It was like, how do I see myself? So that's what hits me. And Taylor, how about you? 
+
+[00:26:35] **Taylor Barnett-Torabi:** Yeah. It depends so much on the person.
+
+[00:26:37] **Taylor Barnett-Torabi:** My answer is yes and no. I. Have been in interview processes where I felt like they were hinting towards the fact because I had spent nine years in Deverell that I may have potentially not been technical enough, which was a really hard thing for me because I was like, wait, how are you even evaluating that. I think yeah, it depends. And it depends on the type of work that you had [00:27:00] done in DevRel. If you had been doing super code heavy DevRel where you're maintaining multiple libraries for a company or something like that would obviously not have come up in their interview.
+
+[00:27:13] **Taylor Barnett-Torabi:** Yeah, I think it heavily depends. I almost started taking some interviews for product marketing manager. I probably would have gotten some questions around you hadn't done some of the traditional marketing parts either.
+
+[00:27:25] **Taylor Barnett-Torabi:** I feel like that would have probably come up in some of those interviews and I would have had to justify yeah, I actually have though, like maybe I wasn't responsible for some of those metrics, but at times just because it wasn't. Entirely my role. It was just a hat that I put on to help out and be a team player.
+
+[00:27:42] **Taylor Barnett-Torabi:** But yeah, I feel like any role you're going to go to, you're going to struggle, if you're going more engineering heavy, like I would definitely say that some devil folks are going, unless they've been somehow involved in the production level. 
+
+[00:27:56] **PJ Haggerty:** A 
+
+[00:27:57] **Taylor Barnett-Torabi:** a bit behind rusty if they've done it before and [00:28:00] had gone to Deverell and then we're trying to go back or just a little bit behind.
+
+[00:28:04] **Taylor Barnett-Torabi:** And so again, what Matt was talking about earlier. Try to map some of the things that you've done to what they actually really need and just try to show that your other positive attributes could, level out some of the ones that maybe you might be a little bit weaker in.
+
+[00:28:23] **PJ Haggerty:** Perfect. That's actually what I was looking for. I wanted to trap both of you with the false dichotomy into the, it depends on the answer because every DevRel answer involves, it depends. So like for me, that was a trick and I won. But so if you're listening to the recording of this, we're going to take a quick break for our sponsor and then we're going to get into checkouts.
+
+[00:28:41] **Jason Hand:** First of all, thank you, Matt and Taylor for coming.
+
+[00:28:44] **Jason Hand:** This has been great. All your. Expertise and insight has been super helpful. And it's just great to see both of you also it's been forever. So thank you. My checkout for today is it's an event that data dog, my employer is going to be putting on in June at the end of June it's [00:29:00] called dash, it's our big user conference and.
+
+[00:29:04] **Jason Hand:** Registration is open and it's actually surprisingly like filling up already. We've got a bunch of workshops that are already full. And I guess, there's a buzz around the office about how fast things are filling up. And I'm just putting the word out there that if you want to come, if you're in the New York area now's the time because it's actually going to sell out pretty quickly here.
+
+[00:29:20] **Jason Hand:** So anyway, that's all. Just focused on that event, even though it's still almost two months away, but that's my main checkout for this week. And then let's hand it over to Mary, are you ready for your checkout? 
+
+[00:29:31] **Mary Thengvall:** I am. So I've got two, one that's not at all community related and one that very much is so the one that's not is a book that I am most of the way through and it's been fantastic.
+
+[00:29:43] **Mary Thengvall:** It's called the humans by Matt,
+
+[00:29:48] **Mary Thengvall:** And it's an alien who winds up on earth and has to learn about humans and who we are and why we act the way that we do and what makes us [00:30:00] interesting. And it's just, I, it was not a book that I thought I would enjoy as much as I have. But it's been. Fantastic. And one of those is like I'll be reading it and laugh out loud and go, wait a second, Jeremy's asleep next to me.
+
+[00:30:13] **Mary Thengvall:** I need to be quieter. And it's just so good. So I highly recommend that. And then the second thing is if you're familiar with the contributor covenant. They have a code of conduct that different teams can adopt for their projects. They're working on V3 of their code of conduct and they're looking for feedback on how community builders have implemented and enforced code of conducts, in the past.
+
+[00:30:39] **Mary Thengvall:** So they're looking for people to take their survey. We'll have a link to that in the show notes. 
+
+[00:30:46] **PJ Haggerty:** Awesome. As a former contributor to the contributor covenant, I highly recommend getting involved really helps to build safe and inclusive spaces. So please, definitely check it out. Let's go Taylor.
+
+
+
+[00:30:57] **Taylor Barnett-Torabi:** Yeah. So mine is a book that [00:31:00] I'm about a little over half done with. It's called range by David Epstein. The subtitle is why generalists triumph in a specialized world. I think I've always really struggled with the fact that I was a generalist, as like a negative thing as like a thing that I needed to improve about myself.
+
+[00:31:16] **Taylor Barnett-Torabi:** Somehow I needed to be less of a generalist. And reading it with the scientific backing to it has made me feel a little bit more powerful as a generalist and also just tried to find The strengths more rather than the negatives. And yeah that's mine.
+
+[00:31:35] **PJ Haggerty:** Super cool. 
+
+[00:31:36] **Matt Broberg:** Sure. Yeah. First one just on the theme of PMs and getting jobs in it. I was going back through Taylor, I hope this isn't one of the cheesy ones from your list because it hit home for me, the product manager interview by Louis C. Lynn. It's just like a gauntlet of questions and a couple really easy to remember frameworks that give you a cheat sheet.
+
+[00:31:58] **Matt Broberg:** And that's how my [00:32:00] brain works. I need reps and I need systems. So if that tracks for you, that really set me up with something to start with. And then I'm really freaking excited about ADRs lately, which sounds so boring because it's just a way to record a decision. But what's really powerful about it is like, it ends up being like the nucleus of how the organism of an organization functions, if you can get there. If we have agreed that this is true. Therefore, whatever you're building, better come back to this principle. And it gets a lot of wasteful meetings, wasteful back and forths.
+
+[00:32:37] **Matt Broberg:** People are able to self monitor their alignment and by design, they're meant to be superseded and updated regularly. So there's some really cool ideas in it. There are a couple of good frameworks out there and I am deep in it more than I probably need to be, but it's really fun. 
+
+[00:32:55] **PJ Haggerty:** I think one of the things that I always appreciate about you, Matt, is you're always deep in it.
+
+[00:32:59] **PJ Haggerty:** And I know that I can, [00:33:00] if you're going to give us something, it's because you've done the research. 
+
+[00:33:03] **Matt Broberg:** My wife calls me a deep hobbyist and she is not wrong. 
+
+[00:33:06] **PJ Haggerty:** Yes. It's only problematic when we look at the amount of money spent on the hobby. Wesley, what did you got? 
+
+[00:33:13] **Wesley Faulkner:** So in March I had the pleasure or the honor to go to South by Southwest.
+
+[00:33:19] **Wesley Faulkner:** And I've gone every year I've gone to every South by physical or virtual since 2008. So it's a place that I go to get new ideas and the new outlooks on things. But this year I had the pleasure of being a featured speaker at South by Southwest which was very new to me. And it was very nerve wracking.
+
+[00:33:42] **Wesley Faulkner:** Talk to Taylor about that. We were in Austin together. And so like it was, I was so nervous on the stage that I actually didn't remember a big chunk of what I said. And what I did was when the talk was published on YouTube, I went, I listened to it, watched it [00:34:00] and critiqued it as you do. But the thing that showed up as a recommended video, like on the sidebar was this talk from South by as well from Amy Gallo.
+
+[00:34:10] **Wesley Faulkner:** This is how teams can skip the drama and embrace healthy conflict. And part of this talk. There's also the, what is it? The adage that you don't quit companies, you quit managers were a lot of some of the problems that we probably have.
+
+[00:34:28] **Wesley Faulkner:** This role is dealing with some people and not being able to have healthy conflict either from their part or our part or both so this was a great video to watch to cement some ways to get around it and also to reinforce best practices. It's great to share if you want to send it to someone, if you're in that situation as well.
+
+[00:34:48] **PJ Haggerty:** Cool. Awesome. Thanks, Wesley. For me, I've got a couple of things. First of all, it's spring and spring means that it's time to go and see concerts again. So there's a lot of great music coming out. So the first thing that I want to mention is Gary [00:35:00] Clark Jr., who is a prominent blues guitarist, actually from Austin, Texas.
+
+[00:35:04] **PJ Haggerty:** Well known for a lot of his blues albums has a new album out called JPEG raw. It's different. It's more of an R and B almost hip hoppy. guest features. Super awesome album. Personally, I think the last track habits is probably one of the best songs I've heard in a long time. If not probably the number one song, 2024.
+
+[00:35:22] **PJ Haggerty:** Secondly, Frank Turner, another great guitarist from the UK has a new album. Just dropped today called undefeated, highly recommended. It's very self reflective. Let's think about how I do things. Things can get better if we keep working at the kind of attitude behind Frank Turner's music.
+
+[00:35:37] **PJ Haggerty:** So check that out. If you're going to go and support these artists, go out to your concerts and look good. I've been using a company for a long time called geeky jerseys. This is if you have a fandom that you're really into, they probably have a Jersey that fits that. They do a lot of stuff with Kevin Smith and Star Wars and Star Trek.
+
+[00:35:53] **PJ Haggerty:** I have a Buffy baseball jersey. I have a Cthulhu hockey Jersey. My son has a hockey Jersey. It's really cool. They [00:36:00] also do hats and shirts and stuff. So geeky jerseys, check them out. With that, while you're thinking about change and growth and everything, I want to say, thank you so much, Matt and Taylor.
+
+[00:36:09] **PJ Haggerty:** It's so awesome that you're able to come and spend time with us and tell us about your journeys. As always, Wesley, Mary, Jason. It's always great to have a show with you. Before we go, I always like to end with a quote, and I know that I'm making a statement by whose quote I picked this week, but those who know anyway, the message I'm sending to myself, I can't change the world until I change myself first.
+
+[00:36:30] **PJ Haggerty:** Kendrick Lamar With that, thank you. From the Community Pulse, say stay safe and we'll see you next time.

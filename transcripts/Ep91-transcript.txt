@@ -1,0 +1,193 @@
+[00:00:00] **Intro:** You're listening to the Community Pulse podcast. Welcome your host, Mary Thingval, Jason Hand, PJ Haggerty, and Wesley Faulkner. 
+
+[00:00:13] **Mary Thengvall:** Hi, everybody. Welcome back to another episode of Community Pulse. I'm Mary Thingval, and I brought up this topic to the team recently as something that I've been curious about and thinking a little bit more about.
+
+[00:00:26] **Mary Thengvall:** And I'd love to get everybody's opinion on it. So the idea of the maturity of community programs or the maturity of. A community or the maturity of a team and trying to figure out what actually is that definition of mature in those different examples? What makes a program mature? What makes a team mature?
+
+[00:00:50] **Mary Thengvall:** What can be done as a result of having a more mature program or DevRel team? And I'd love to get everybody's opinions on it. [00:01:00] 
+
+[00:01:00] **PJ Haggerty:** I think if I could weigh in for a second, I think that one of the interesting things here is the word you mentioned, the word mature. Like 17 times which is good, but I also feel like maturity is in some ways similar to when we, when tech companies use the word enterprise, what does that mean?
+
+[00:01:15] **PJ Haggerty:** It can mean a lot of different things to a lot of different people. And a lot of, in a lot of cases, I think that maturity, when we look at like a DevRel team is. skewed. 
+
+[00:01:27] **PJ Haggerty:** I don't think that's the same metric as. I've never seen a DevRel team that says, okay, so we have junior DevRel and mid level DevRel, senior DevRel, product managers, and communication is managed by this other part of the team. I think most people are basically saying a DevRel program is mature, if There's more than one person.
+
+[00:01:49] **Mary Thengvall:** Really? ~~And ~~
+
+[00:01:49] **PJ Haggerty:** ~~that's external. ~~I think external people who view DevRel say there's more than one person. Clearly we have a mature DevRel program. I disagree with that, but I think it's a thing. [00:02:00] 
+
+[00:02:00] **Wesley Faulkner:** In terms of community and a mature community, I think of it in multiple facets and you can pick which one.
+
+[00:02:06] **Wesley Faulkner:** Resonates with your initial thought, Mary, is that there's a maturity in terms of when you're creating a community, there's a lot of, let's figure this out, like how we're going to run this, let's build up the playbooks. Let's build in the process, let's build in the connections internally. 
+
+[00:02:21] **Wesley Faulkner:** Oh, a base of maturity. Another way of looking at it is from the people who are involved internally in community. Do you have a seasoned community manager? Do you have strong enough goals? And clear expectations. Do you have a good relationship with the other departments to make sure that the collaboration there, that everyone sees the investment in community and the value of community where basically you have an internal synergy where people understand community is part of the process 
+
+[00:02:54] **Wesley Faulkner:** so where the community in a company grows to the point where it's the whole [00:03:00] company understands. That we are a community. And this is important to us. 
+
+[00:03:04] **Mary Thengvall:** And then 
+
+[00:03:04] **Wesley Faulkner:** The third option for the community when I think about it is the external view of the community. Do you have members who keep coming back? Do you have people who are participatory in either surveys or type of feedback sessions in which they are contributing not only back to the company, but they have a That are horizontal to other members of the community where they feel like that relationship has been built up.
+
+[00:03:32] **Wesley Faulkner:** Another way that this can show on the external side is that it is large enough that you're able to do an ambassador program? You're able to have people be moderators. You're tearing the community itself where there's different types of facets or different types of verticals where the community can have different shapes and sizes depending on the size of it.
+
+[00:03:51] **Wesley Faulkner:** So those are the three different ways that when you say maturity that popped in my head. 
+
+[00:03:56] **Mary Thengvall:** Part of the interesting thing [00:04:00] from my perspective with the company that I'm at, which is Kamunda is. From a just pure length of time perspective, right? Like we have data about our community back to 2013, which is a lot.
+
+[00:04:19] **Mary Thengvall:** And so that's part of it is, as we're starting to look at this data and try and evaluate, what do we do next and how do we make decisions based on that? If we're asking other companies about the type of data that they have and the type of information that they have, the fact that we have 11 years of data, most other companies are going you have way more data than we do.
+
+[00:04:39] **Mary Thengvall:** You have way more information than we do. Like you're so far ahead of the game, but part of that is simply when we started. Mature community. 
+
+[00:04:50] **Jason Hand:** Are you doing anything with that data? 
+
+[00:04:53] **Mary Thengvall:** Trying to, ~~that's actually, ~~
+
+[00:04:54] **Jason Hand:** ~~that's an accident. ~~That's an excellent question, Jason.
+
+[00:04:55] **Jason Hand:** To me that's what makes them a team mature is if you're not doing anything that's [00:05:00] actionable and you don't have a plan to take the things that you learned or the things that you've collected or whatever, 
+
+[00:05:06] **Mary Thengvall:** and 
+
+[00:05:07] **Jason Hand:** Build some process around that and do something positive with it.
+
+[00:05:11] **Jason Hand:** Then you're wasting that. And you're also not really a leader in the space of what, I hate using the term best practices, but if you're not I feel this all the time are, am I following my advice all the time? No, but I'm doing my best and it's not always up to one person either on how things come together.
+
+[00:05:28] **Jason Hand:** To me, the first thing to jump out is in terms of a mature team, like communities, probably something different, mature, like other words out there. But I'm starting to realize like a data dog, like building some process around stuff, having some good goals, making sure we have a clear vision and mission statement, like all these things help to me create this this maturity thing, 
+
+[00:05:53] **Wesley Faulkner:** I think that was option one, right? 
+
+[00:05:55] **PJ Haggerty:** Yeah. I think it's interesting that Mary brings up 13 years of data. [00:06:00] Or I shouldn't say weak. I don't work at Komuna. I work at IBM, where we literally have 100 years of data and we do nothing with it. And I think that it'd be more accurate to say you have a 100 or you have 13 years of actionable information based on the data you've collected.
+
+[00:06:16] **PJ Haggerty:** There's always been my argument and anyone who's seen me speak at DevOpsDays. There's a big difference between data and information. You can have a lot of data and no information. And that's, because, at international business machines, we concern ourselves with the enterprise and the client, but the client isn't always the community.
+
+[00:06:35] **PJ Haggerty:** And the mature community model would. But even given the amount of time that we've had to collect data and look at it and evaluate it, there are still because and maybe this is part of the just large nature of a huge international conglomerate. 
+
+[00:06:51] **PJ Haggerty:** Community interaction that the company is very good at. And there are other parts of the company that have no idea who the community is or how to talk to them. And [00:07:00] because it's so large, those two places just don't talk to each other. That's option two. Yes. But it's like the bad version of option two.
+
+[00:07:08] **Jason Hand:** Not everything also, as far as data goes, is going to be actionable. Like you can't assume that all that data going back to 2013 is it is really even valuable because time is, this there's pre COVID and post COVID there obviously, but also I just read about the dead internet theory the other day or watched a video on it and the internet in 2016, which I don't disagree with there's a time where things were different in terms of what we were collecting and what we thought was valuable.
+
+[00:07:37] **Mary Thengvall:** Yeah. 
+
+[00:07:37] **Jason Hand:** Today, most of us would say, page views and clicks and all that stuff. The best we had at the time. And that's what we looked at the most, but that having that data from some, from several years back might not be that value. 
+
+[00:07:47] **PJ Haggerty:** This goes back to a lot of the metrics conversations we have as well, though.
+
+[00:07:50] **PJ Haggerty:** Like I think that 10, 15 years ago at any tech company, I would think that net promoter score was a totally valid way to look at your end users and figure out whether you were doing well. [00:08:00] Nowadays, it's a huge waste. It's a huge waste. That is not a way to get a grip on your community or your end users or people that are using the, that promoter score is just, in the same way that, if this was 1998, I would say, yes, if you were in the upper right magic quadrant of a Gardner square, way to go, you're the best.
+
+[00:08:17] **PJ Haggerty:** It's not 1998, it's 2024. And with 2025 rapidly approaching, you need to like everyone who complains about the metrics of determining whether a DevRel program is good or a community is mature. And meanwhile, these other people are using you know 40 year outdated metrics to say. But we're doing good in the industry.
+
+
+
+[00:08:36] **Wesley Faulkner:** Used to believe in the net performance score too, in terms of community. But I think that someone told me this and coined it the uberfication of metrics for star rating. I like that. Like everyone gets five stars, no matter how bad your driver is. And this or they get one star, there's nothing in between.
+
+[00:08:54] **PJ Haggerty:** If they have a personal interaction with the company it's the same as like I give every uber driver five stars [00:09:00] because I interact with that person. If you're an end user and you have a personal relationship with a salesperson or a developer advocate or a market, someone, you have said, you're going to be like I thought I'd give them the best net promoter score I possibly can.
+
+[00:09:12] **Mary Thengvall:** Yeah. 
+
+[00:09:12] **PJ Haggerty:** Because I don't want to hurt so much, but that's exactly what invalidates the metric. It's just not valuable anymore. 
+
+[00:09:18] **Mary Thengvall:** I think it goes back to, and this is it's metrics related, but I think it's directly related to maturity as well. The idea of. Are you collecting metrics for metrics sake?
+
+[00:09:30] **Mary Thengvall:** Are you actually collecting metrics to, Jason, your point? Are you doing anything with them? What are we doing with that data? Why are we collecting this in the first place? How are we using it to advance the programs or things like that? And part of it from my standpoint too, we have a new version of the product.
+
+[00:09:49] **Mary Thengvall:** That's very specifically called a new version because it does the same things, but it's a different product. And so as we're looking [00:10:00] at. Are people sticking around or people churning because they want to be on the old version of the product, but we're at the end of life in that, like, how does that work?
+
+[00:10:06] **Mary Thengvall:** What does that look like? Can we still call our community mature? If most of those people who have been around for that long are potentially no longer involved in the community, right? Does that change the level of maturity of the community, 
+
+[00:10:21] **Mary Thengvall:** maturity of the community programs. And that's where I think those two things might be separate. Because the level of maturity of the team could be 10 years on the team. I'm lucky enough to have a number of people who have been with the company and on my team for three years or longer at this point, that's practically unheard of in DevRel, let alone tech, but that's a very different thing than how mature is our community, which is a very different thing than how mature is the data that we're working with and what are we doing with that data and how does it impact our [00:11:00] programs and everything else?
+
+[00:11:02] **Wesley Faulkner:** Option three.
+
+[00:11:06] **PJ Haggerty:** Wesley is just going to underscore that he was right. And Wesley, I admit 100%. All right. Yes. And one question, one more question they have about what it takes to make a mature community program is what about the external community. So in here, I'll use the example of, back in the day when I was working at Engine Yard, the Ruby and Rails community was still In comparison to other source and language, other open source and language communities.
+
+[00:11:33] **PJ Haggerty:** It was still immature. People were not building massive products in that language just yet when I first joined that team. So the external community was actually fairly immature. Which meant that we could only mature as a community team so far. And back then there were no metrics, there were no guardrails, there was no rules.
+
+[00:11:55] **PJ Haggerty:** We were just making it up as we went along. But because of that, like we [00:12:00] felt like at the end of that experiment, like around 2014, 2015, we had matured quite a bit. We had built something that was rerun, but we had. a playbook that you could follow. This was something that made the parts interchangeable, which unfortunately led to them changing our parts.
+
+[00:12:16] **PJ Haggerty:** Nonetheless, it was something that you could do, there was a pattern. And I think that's something that only came because of the maturity of the external community growing along with our internal community. And I think that's an important factor when we talk about, is a community program mature?
+
+[00:12:33] **PJ Haggerty:** Is the external community of users or developers or whatever, are they also mature? Is it a matter where the only people who are really making up the community right now are those like, super cutting bleeding edge technologists who are going to adopt it, or is it a matter of.
+
+[00:12:50] **PJ Haggerty:** Jason, you asked, why is it good to be mature? That's not a question I've ever had to answer.
+
+[00:12:58] **PJ Haggerty:** Hey, here at [00:13:00] DevRelate. io, we know the world of DevRel can be tough. Deadlines, announcements, conferences, talks. Where do you find all the time? That's where we come in. At DevRelate. io, you can find the help you need to start, maintain, and move your developer and community relations forward. Handling everything from event planning and strategy to content development, podcast, documentation, we even help with speaker training and talk review, all in one place.
+
+[00:13:27] **PJ Haggerty:** When you're ready to augment your already great team, reach out at info at DevRelate. io. That's info at D E V R E L A T E dot I O. DevRelate. io. Experience developer and community relations as a service.
+
+[00:13:48] **Wesley Faulkner:** This is very timely. So yesterday I spoke at CMX Global. And my topic was about the governance of a community. So making sure that you involve the community [00:14:00] and your decisions and your planning, and also giving out some of responsibilities like moderation or something like that.
+
+[00:14:09] **Wesley Faulkner:** So I was thinking about this and how you couldn't do that without a mature community and what it does give you is scale gives you options. It gives you more that you can work with in several different dimensions.
+
+[00:14:25] **Wesley Faulkner:** So whether you use it for product feedback, whether you use it for marketing outreach, whether you use it for like user groups, where you're going to meet in different cities, physically, without maturity, you don't get scale. You don't enable some of these things that larger companies, larger.
+
+[00:14:47] **Wesley Faulkner:** Organizations or even more established organizations are able to do. So it does unlock like a new layer and new skillset. If you are able to get to the [00:15:00] place where you can build that maturity on all those different dimensions. 
+
+[00:15:03] **Jason Hand:** Yeah, I love that. And the reason why I even thought that is because going back to when Mary was opening things up this has been something that's been spinning on your mind for a little bit.
+
+[00:15:16] **Jason Hand:** And I'm just curious, like what's. Motivating that what's driving that, is there another part of the business that has expectations for something you're involved in to be quite mature. And then just to see the other side of that coin. Sometimes I feel like being new to a situation and maybe not being all that mature means I'm not stuck in some old patterns and I'm open to new ways of doing things.
+
+[00:15:42] **Jason Hand:** So I'm just curious, what's driving this and is there actually something uniquely about that team program, whatever that the business is after you know what I mean? 
+
+[00:15:54] **Mary Thengvall:** No, that's a great question. 
+
+[00:15:55] **Jason Hand:** Not exploitation of customers.
+
+[00:15:57] **Mary Thengvall:** No. And it's, I think part of it is [00:16:00] just. I've been thinking, is there a point at which we can go, this program is mature and like that phased iteration of, okay, we're just launching it and let's see how it goes for the next six months and get the baselines. And then great, let's iterate on it.
+
+[00:16:14] **Mary Thengvall:** Is there a point that you get to where? Some of those programs can just run easily without a lot of overhead, without a lot of work, without a lot of manual intervention, right? Is there a point where you might need a senior community manager to get the program off the ground, but then you could have An intern who does the, manual follow ups and manual approvals and things like that.
+
+[00:16:43] **Mary Thengvall:** Is that a sign of maturity? But to your point, I think there's some of the benefit of being quote unquote, immature is that ability to iterate quickly. Whereas once you have a fully mature [00:17:00] program that's running really well, if we're going to make any significant changes, that's, it's a lot more difficult, right?
+
+[00:17:08] **Mary Thengvall:** Because it's not just, Oh, Hey, iterate on this one little thing. Try this out, tell people we're trying this out and then move forward with it. It's, Oh, okay. If we're going to change this, then that process that it feeds into and these things that it feeds into, and this vendor that we use to handle this side of things for the program needs to change and all of these other things, right?
+
+[00:17:26] **Mary Thengvall:** There's a lot more built into it. There's a lot more at stake. But yeah it's interesting. I think on a personal level. Part of the reason I'm interested in this topic is because this is the first time that I have ever been at a single company and in a single role for this amount of time.
+
+[00:17:47] **Mary Thengvall:** Like I'll be there five years in December and I've been at other companies for a long time, but always switching roles within the company. But like I started as [00:18:00] director of developer relations, I'm still director of developer relations and I'm okay with that.
+
+[00:18:04] **Mary Thengvall:** And so some of it is also like my considering my own career trajectory and what's changed and what's different. And the team is very different than it was when I started. The program is different than it was when I started. Where does that leave? Me, what are my day to day responsibilities if we're not changing and iterating on things?
+
+[00:18:26] **Mary Thengvall:** And I don't think that's a bad thing, but it's just, it's a very different perspective for me to have from always running, always working long days, always launching big programs, always launching new things. That's a personal adjustment. 
+
+[00:18:43] **PJ Haggerty:** But I'm curious, because when we talk about cause I feel like in some ways, like Jason, what you're talking about is like, what should our goal be?
+
+[00:18:48] **PJ Haggerty:** Maturity share metrics are focused on maturity. And I think that a lot of places never get out of that. Iterative part. And the reason why they don't [00:19:00] is partially because they go through these iterations of the team. So you have, you have, okay. So I bring in PJ and he works, he contracts with us through DevRelate for a year.
+
+[00:19:11] **PJ Haggerty:** Great. Then, somewhere towards the end of the year, he brings in a permanent, developer advocate. Great. Cool. And then they actually start to reform things and reshift them. Oh, and then our understanding of how DevRel works. Oh, and then there's just a pandemic in the middle of that.
+
+
+
+[00:19:23] **Mary Thengvall:** Company 
+
+[00:19:24] **PJ Haggerty:** and it almost makes it impossible for any company to have a community program. I feel like one of the benefits that you have at Kamunda, Mary, and you can correct me if I'm wrong, is their dedication to building a community program from the top down.
+
+[00:19:39] **Mary Thengvall:** And 
+
+[00:19:39] **PJ Haggerty:** I don't think every company has that. I think a lot of departments have that, or a lot of groups have that, but a lot of companies do not have that. 
+
+[00:19:47] **Mary Thengvall:** Yeah. 
+
+[00:19:48] **PJ Haggerty:** And I think that's why it's difficult to find a similar situation to yours. 
+
+[00:19:52] **Wesley Faulkner:** Another, 
+
+[00:19:54] **Jason Hand:** So I've been, on a few different teams now and Devereux related teams of various maturity, I think really it's [00:20:00] more that it's a moving target of course it's a spectrum in terms of how you measure How mature a team is.
+
+[00:20:07] **Jason Hand:** But I feel like. Teams change in terms of the people that make up those teams and the priorities of the org that you're in. Some companies might have a whole quarter where they're just, okay. Ours are really focused on one very specific thing that really don't reflect the team as a whole, but this is what the company needed to focus on right now.
+
+[00:20:30] **Jason Hand:** And we're all coming together to make that work. Everything's just a freaking moving target and to come up with that 
+
+[00:20:36] **PJ Haggerty:** should be the standard DevRel tattoo. 
+
+[00:20:37] **Jason Hand:** I don't want maturity. 
+
+[00:20:38] **Wesley Faulkner:** I will need the pins.
+
+
+
+[00:20:39] **Jason Hand:** Hey, Oh. I don't think maturity is a target and you get there and then you're done. And like magically doors open up and all these things that Wesley's talking about are totally true, but I feel like what may have seemed mature.
+
+[00:20:53] **Jason Hand:** A couple of years ago, quote, best practices just aren't, they aren't anymore and that's, things are [00:21:00] just different. So we're starting off with a new, Blank slate pretty frequently. And that's where, I don't know, that's where we get, I think, mixed up on what's important.
+
+[00:21:11] **Jason Hand:** To measure and what's important to take action on with the measurement. 
+
+[00:21:16] **Mary Thengvall:** Thanks for sharing with everybody.

@@ -1,0 +1,323 @@
+[00:00:00] **Jason Hand:** Over the past few years, we've seen conferences ebb and flow. Some community run conferences have evolved into new things. New ones have sprouted up, while other annual favorites have sadly gone extinct. What goes into community led conferences, and how does someone get involved? Let's take a look.
+
+[00:00:20] **Weslefy Faulkner:** Conferences are such a big part of many DevRel programs. But where do they come from? Who puts them together and what really happens behind the scenes? We've gathered some of DevRel's event organizers who can help us out. Mo and Maddy, could you introduce yourself, starting with Mo? 
+
+[00:00:38] **Mo McElaney:** Hello! Thank you for having me.
+
+[00:00:40] **Mo McElaney:** My name is Mo McElhaney. I work for IBM, leading the strategy of our open source AI developer programs in IBM Research. I ran a nonprofit teaching women to code from 2012 to 2018. I've spoken at conferences around the world.
+
+[00:00:59] **Mo McElaney:** And I've [00:01:00] organized a bunch of different conferences over the years. Burlington Ruby, UX Burlington, Vermont Code Camp, Offline Camp, Abstractions Conf in Pittsburgh. And currently I'm on the contact committee for PyCon US and Ray Summit. And I'm on the board of the Vermont Technology Alliance. 
+
+[00:01:20] **Matty Stratton:** Great.
+
+[00:01:20] **Matty Stratton:** I'm Matty. I currently run developer relations and growth for a company called Aiven. And I also have my own DevOps podcast, Arrested DevOps, on the topic of community conferences. I've spent my time as a conference speaker at all sorts of community events all over the world.
+
+[00:01:36] **Matty Stratton:** I was the founder of DevOps Day Chicago, when that started. I've been a co-chair of the global team for DevOps days worldwide, and currently in an advisory role with that. I also help out with the content track for all day DevOps, and there's probably a bunch of other community related conferences that I'm forgetting about that I've helped out at some point over the years.
+
+[00:01:58] **Matty Stratton:** And so if I didn't name your [00:02:00] event and I helped you I apologize, hit me on Twitter and yell at me. Excited to be back on Community Pulse. 
+
+[00:02:08] **Weslefy Faulkner:** You really have someone who loves the community when they can't remember all the things that they've done to help run conferences and help the community get together and.
+
+[00:02:18] **Weslefy Faulkner:** Speaking to passion and thinking about why you're doing this. What is your specific answer? Why, what led you to organize conferences to start with you, Maddie? 
+
+[00:02:27] **Matty Stratton:** It's funny. And if I want to be a little introspective and honest, it's the same thing that I think brings me to organize. Anything is one of the ways that you can make sure you're involved in something is to run it.
+
+[00:02:41] **Matty Stratton:** And I look back over the time and I spent years running a community around swing dancing here in Chicago. This is not a good life lesson or a good way to live your life. So I don't recommend it.
+
+[00:02:52] **Matty Stratton:** But really the first community event that I. Got involved in organizing was DevOps days, Chicago, and it came from [00:03:00] being interested in DevOps days, having wanted to go to one and not having had the chance and saying, Hey, maybe we should have one in Chicago reached out to the global team, and they said, Oh last year, some people were interested.
+
+[00:03:12] **Matty Stratton:** I can put you in touch with them. Maybe y'all can figure it out where we are now. 10 plus years later after that, a fateful little meeting that we had in the second floor walkup consulting company thing. So it's interesting, and hear what most is what leads you to originally organize a conference and what keeps you doing it, or maybe two different questions and maybe we come back to that second one in a minute.
+
+[00:03:31] **Matty Stratton:** 'cause the answers are 
+
+[00:03:32] **Weslefy Faulkner:** Yes. I would love that answer. And I think it also has. You don't have to be an expert in something before you start trying to organize around it, which is great. So Mo, what is your story? What got you involved? 
+
+[00:03:44] **Mo McElaney:** That is a very good segue into my answer to that question because I'm a mid career switch into tech.
+
+[00:03:51] **Mo McElaney:** I coded before I had a full time job in tech, but I got laid off in 2009 when the recession in the United States happened. [00:04:00] And I saw all my friends who worked in software, whether they got laid off or not, they still were making money. So I was like, Oh, I need to really get into tech.
+
+[00:04:09] **Mo McElaney:** And so I started going to meetups. I was teaching myself to code for real. And then I started a nonprofit teaching women to code. And in doing that work, as anyone who's listening or anyone on the show knows, once you start organizing something, everyone wants you to help them with the thing that they're organizing.
+
+[00:04:30] **Mo McElaney:** And so because of running that tech community, Meetup. I got invited to organize our local Ruby conference because we were teaching a Ruby class and it just was a perfect synchrony. And then, in doing that work, I got invited to organize another conference and it was a way for me to learn from the best.
+
+[00:04:49] **Mo McElaney:** In the industry, because when you get involved with a conference, you're inviting people to come and speak who are really experienced or really interesting and have an interesting way of teaching a [00:05:00] concept. And my inexperience is what led me to organizing conferences. 
+
+[00:05:06] **Jason Hand:** I feel like that's definitely similar to my experience and Wesley, I think, maybe you're also the same, but.
+
+[00:05:12] **Jason Hand:** To Matty's story, like mine's almost identical with DevOps days. I saw, I think, I don't know which DevOps days it might've been. Chicago was one of my, it was either Minneapolis or Chicago was one of the first ones I went to. And I was like, Oh, this is pretty rad. We need something like this in Denver.
+
+[00:05:26] **Jason Hand:** And it just is like filling a gap, filling a need of what was already a meetup going on in the area. And I was, just Oh we deserve something like this. Like the Denver area, the front range actually was what it was, when I was really focused on, because one of the tenants of DevOps days is to be very, ultra inclusive.
+
+[00:05:47] **Jason Hand:** And I felt if we called it DevOps days, Denver, some of the folks in Boulder. 30 minutes away, they may not come. It's not going to feel like it's one of their things. So we decided to call it DevOps stays Rockies, which meant to like [00:06:00] really, including the whole front range of, from Colorado Springs, all the way up to Fort Collins.
+
+[00:06:05] **Jason Hand:** I got yelled at for calling it Rockies, which is true because like we wanted it to be Denver, but. I felt like I got a pass on it because it was inclusive, in the Rockies, at least to the culture out here. Denver and Boulder are two different people or two different things.
+
+[00:06:18] **Jason Hand:** And you're just not going to get a lot of cross collaboration. So anyway, let's pivot a little bit on what Maddie was talking about. There's one thing about starting the conferences. It's something else to keep you coming back and doing it year after year or whatever the frequency is.
+
+[00:06:33] **Jason Hand:** I'm wondering if we can start with maybe Mo on you with this one. Is there anything that sort of keeps you returning back to these? Or is there something that inspires you to either grow it or maintain it? What are your thoughts around that? 
+
+[00:06:48] **Mo McElaney:** Community conferences are the best.
+
+[00:06:51] **Mo McElaney:** I've made the best of friends at community conferences that I've attended. The organizers are always just really passionate about the community and it's [00:07:00] just always a wonderful experience. Sometimes it's really stressful because at a community conference, we're going to talk about the hardest thing about running community conferences, I think, but funding is always an issue.
+
+[00:07:09] **Mo McElaney:** So it's really stressful trying to figure out how you're going to. Have the money that you need to do the things you want to do and all that. And the other cool thing, as a developer advocate, it's a really easy way to see trends in the industry. If you're involved with the content for conferences, you're seeing what developers are interested in because you're seeing what they're submitting to the conference.
+
+[00:07:29] **Mo McElaney:** And so you get the inside. Track on what people want to see and what they want to be learning and what they want to brag about. ~~It's a really good way to get all the secrets. ~~
+
+[00:07:37] **Jason Hand:** ~~Very true. ~~Very true. And Maddie, you're still on, are you still involved with DevOps stage Chicago or? ~~I ~~
+
+[00:07:41] **Matty Stratton:** ~~am.~~
+
+[00:07:41] **Matty Stratton:** And that's a story about that. It has to do with actually connecting pretty well to what keeps you coming back. And one of the other parts is what makes it hard to not come back. What makes it hard to stop because sometimes you need to stop. But to answer your question shortly.
+
+[00:07:55] **Matty Stratton:** So this year is 25. We're not doing one for 2024. So the next DevOps day, Chicago [00:08:00] will be in March of 2025, a single day event, a new thing. I am an advisor. But they have asked me to be the emcee. So that part keeps happening, but it's about the people, but in two different ways.
+
+[00:08:13] **Matty Stratton:** So it's the, first of all, about sort of the participants and one of the reasons I use the word participant really intentionally there. So one of the things for the community event that is DevOps day Chicago, that we believe really strongly in Is that everybody there, nobody's badge says speaker or sponsor, whatever they all say, participant, because everybody is there to participate together and I feel really strongly that community events tend to be very participatory, you don't go there to be spoken at, maybe some people do, you do you man, that's not the intent.
+
+[00:08:44] **Matty Stratton:** But even as an organizer, it's like you're participating in it, you're part of it, and you see what everybody gets out of it, right? It's the thing of like, how many times over the years I will encounter folks at other events, [00:09:00] on LinkedIn, on socials, on whatever, someone comes on and they talk about how They came to DevOps Day Chicago, and that's what got them into the job that they have.
+
+[00:09:09] **Matty Stratton:** Things happen at these events that change people's lives. We think about things like TalkPay, which is a very popular thing at a lot of community events where people are very transparent about their compensation. And it literally gets people, when they know about people that have found better jobs, that have gotten paid better, that have done those things, you're like, how can you not have this keep going?
+
+[00:09:29] **Matty Stratton:** And from the personal. I hesitate to say selfish, part of that is, that's a little selfish too, cause I'm like, I feel awesome. And I'm like, cool. I was helpful and helped your life. My co organizers it's there. And, I know we're going to talk about how COVID changed everything, but I remember our first in person DevOps stage, Chicago being up on stage.
+
+[00:09:47] **Matty Stratton:** And I was just like in tears because I missed these people, even though we had done an event together, but even that event that was in person, Didn't get together the way that we used to, [00:10:00] and it was, I was like, these were folks that throughout the year, cause it takes a year to run this event, event would come off and we'd be like, all right, we're going to give ourselves like six weeks.
+
+[00:10:06] **Matty Stratton:** Everybody go back and get away from this for a minute. And we got to start again. And, you get together and we all go and order pizza to Margaret's house to review the talks. And this is the place we would go. And, you think about stories about drinking a bunch of beer at an elephant in castle and saying, Hey, Jerry, can I have money to buy a yak costume and.
+
+[00:10:24] **Matty Stratton:** Now we have one, it's like those types of things. And you have new people come in and out every year, but you have this set of folks and they're some of your greatest friends and you like to make things with them, but it's also a hell of a lot of work.
+
+[00:10:39] **Weslefy Faulkner:** Yeah. Conferences are a lot of work and I think everything that you mentioned is a form of pay or. Recompense for putting in that effort. And I know we, you mentioned the COVID during COVID. I remember us as a group and just the Royal us, talking about okay, so what are we [00:11:00] doing now?
+
+[00:11:00] **Weslefy Faulkner:** And then let's do some efficiencies of a virtual conference. Let's do more webinars. Let's write more blog posts, do more content. These things were in place of some of the ways that. We did some of that stuff at conferences. And then we're then after that, or during that period, we're also saying when will conferences come back?
+
+[00:11:19] **Weslefy Faulkner:** And then people will start meeting up again. And then the conversation shifted to, are they the same and what are we going to keep doing that we did during the lockdowns conferences do have. Some meaning, and there's only things you can do at conferences.
+
+[00:11:33] **Weslefy Faulkner:** So they're not good at everything, but they're good at some really great things that can't be replaced. My question is in this period of time where it seems like things have equalized. When you look now, do you look before COVID, would you say that conferences are at the same level? Have they increased?
+
+[00:11:52] **Weslefy Faulkner:** Have they decreased? Where are we now in terms of conferences as in before COVID after COVID Are things better and in terms [00:12:00] of the amount of events, are we seeing more people having more conferences, or are we seeing just less overall conferences, but better quality? What would you say?
+
+[00:12:08] **Weslefy Faulkner:** Let's start with you, Matty. 
+
+[00:12:09] **Matty Stratton:** It's, haha y'all know how much I hate root cause and there's a lot of contributing factors to the landscape of community conferences today. But there is some definite causation because one of the things that was clear from the year or two of massive slowdown is for a lot of it and not necessarily what people want, but what organizations are willing to fund.
+
+[00:12:38] **Matty Stratton:** So it's a lot of, if what you get out of it is just, how much more can you learn in different ways? I think that, in my opinion, the bigger impact to what I would say is a decline in community led conferences. And it's a shame because this is not what I would have predicted and what I was hoping was going to come out of [00:13:00] COVID.
+
+[00:13:00] **Matty Stratton:** I thought it was going to be the flip. Yeah. Because of the costs and but I think it's less about maybe we could say that a contributing factor to the current economy is related to COVID so therefore it's COVID but in today's economy, the dollars and the ducats are harder to get and We also find a lot of folks in their community events are still wanting to run events in the playbook that they ran pre COVID when money was cheap and you could get lots of sponsor dollars and we're used to doing things in a certain way.
+
+[00:13:35] **Matty Stratton:** Anyway, I want to bring it back to the change that has happened, but I made a comment where I said this is not what I was hoping and If you look, we talked about this topic slightly on arrested DevOps in the retrospective of Chicago 2020. And I'll give you a link for the show notes.
+
+[00:13:49] **Matty Stratton:** And at the time, one of the ways I was thinking when I was looking at what was happening was with conferences starting to decline through COVID. My prediction. And maybe it was what I wanted to [00:14:00] happen was that we would see a rise in community events because community events are cheaper to do and to attend and thinking about, these big shows that cost bajillions of dollars remember at this time, too, we were seeing O'Reilly shutting down their way of funding that velocity going away all these big events and I was like, here we go community events.
+
+[00:14:22] **Matty Stratton:** And, maybe we missed it as community events to be able to refactor how to be able to optimize for the fact that they were, that community events tend to be local. They tend to be regional. Instead of having to try to do this scenario, because I think when the other thing in the decline besides the cost is that also people are trying to think about sustainability, right?
+
+[00:14:44] **Matty Stratton:** And they're like, Hey, maybe I don't want to be, maybe we shouldn't all. Be flying from the whole world to San Diego or whatever for this one big event. Whereas if we could have smaller bits and pieces that exist, so all these things have multiple contributing factors. [00:15:00] Anyway, do I see the thing that there's been a decline in community led conferences since covid?
+
+[00:15:05] **Matty Stratton:** I think yes, because of COVID, I don't know, but if that's the point in time, we are saying there absolutely has been, and I will, I can speak specifically from DevOps days. And I would love to hear what Mo and the rest of you do for the other events that you do. We have seen the number. It's very interesting because we look at how many DevOps days happen every year.
+
+[00:15:25] **Matty Stratton:** And that number like Was this massive spike in 2019? It was huge. And then you're like, Oh, and then they were like, none. But then you look at it and you're like, cool. Look at devopsdates. org and you see all these cities are having it. And as a core member, I can tell you, and you know how many of them end up getting canceled and don't actually happen.
+
+[00:15:43] **Matty Stratton:** How many? A lot. That's the scientific rational number of it is a lot or continually get postponed because, Oh, we weren't able to make our funding. We weren't able to do that. We have to cancel it. And so we're not back. And I don't know that we will be without [00:16:00] changing.
+
+[00:16:00] **Matty Stratton:** How we reason about these in kind of the new world. It sounds like the community run conferences need a collective PR department 
+
+[00:16:07] **Weslefy Faulkner:** to help with getting the word out. 
+
+[00:16:08] **Matty Stratton:** Don't think it's we need to realize that you don't, the money is not there.
+
+[00:16:14] **Matty Stratton:** So you don't, Maybe you have to run the event in a different way. You're used to being able to, and again, I'll tell you that like Chicago we always make a lot of money on our, I don't say we make a lot of money. We don't profit, but we get tons of sponsors. Our event is very expensive. DevUpstate Chicago costs over a quarter million dollars to run, do you need to spend that much money to run a DevOps space? You absolutely do not, but a lot of events are used to doing that and you're just like, yo we have to have 600 people cause we've always had 600 people and we have to have all of this cause we've always had it. And you're like, do you?
+
+[00:16:47] **Matty Stratton:** And that's the thing we miss. In Covid time was the chance to refactor and so why also most virtual events failed. ~~Sorry, I swear to God I'm gonna stop talking. ~~
+
+[00:16:54] **Weslefy Faulkner:** ~~So Mo, ~~are you seeing what Maddie's seeing? And also are you in favor of a refactor?
+
+[00:16:58] **Weslefy Faulkner:** What do you think? [00:17:00] 
+
+[00:17:00] **Mo McElaney:** I definitely am seeing exactly what Maddie's seeing. And I think it's also connected to meetups. I haven't seen meetups return to what they were. Anecdotally for me, a lot of the main organizers of my favorite communities either left DevRel or have been laid off and have been having job insecurity.
+
+[00:17:24] **Mo McElaney:** I think that's a widespread industry thing. It's been tough out there. And so it, my impression is that there isn't the same bandwidth for people to do the organizing. And maybe we didn't do a good enough job of raising up the next generation of organizers. I think that's another issue that is just a chronic thing in communities is having that mentorship where you're raising up the next people to come up behind you when you inevitably, either burnout.
+
+[00:17:55] **Mo McElaney:** Hopefully you don't burn out, but if you burn out, a lot of community organizers burn out [00:18:00] eventually. Or you just, your life changes and you can't do as much as you were doing before. And who are these people that are going to come up behind us to organize these things? And how do we make it a good experience for them so that they get what they need to take it over?
+
+[00:18:15] **Mo McElaney:** I also think that, yeah, I agree funding hasn't come back. It's tough to get funding. I agree with Maddie. I thought community conferences were going to come back strong after COVID, but it seems like the corporate ones are the ones that suck up all the funding and then there's nothing left.
+
+[00:18:30] **Mo McElaney:** And I feel like from my perspective, coming from a tech giant people want to fund the things that are going to have a big art, like ROI and they're, they want big numbers. And they're not looking at like the quality, but community events are just like such a different experience.
+
+[00:18:50] **Mo McElaney:** And you can have such a wider impact if you are investing in a whole bunch of communities like dev ops days or pi data, or all the [00:19:00] pi ladies, all these communities that have chapters all around the world. If you could invest in those, you're having smaller events, but the overall numbers are high, but I feel like, from what I've seen in the corporate trending around this, people want to see thousands of heads that are viewing your content and not necessarily just like a hundred in one event.
+
+[00:19:25] **Mo McElaney:** Even though the sponsorship level would be way cheaper than. Arguably the impact would be higher because you're actually getting a more authentic interaction with a smaller group of people and actually getting them playing with things. 
+
+[00:19:40] **Mo McElaney:** Maybe people see your logo, but they're not actually doing anything because they're running around to the next session. 
+
+[00:19:46] **Weslefy Faulkner:** Yeah. Those are really good points. I also think that, during the pandemic COVID period, productivity went to all time highs. And then after the rates [00:20:00] got increased, layoffs also happened that mass.
+
+[00:20:03] **Weslefy Faulkner:** And so now someone who's already working at their peak, and then on top of that, now they are taking on the work of their coworkers who are no longer at the company. Maybe they don't have the time to go to conferences as much. Maybe their routine has changed so that it feels like it's a little extra.
+
+[00:20:18] **Weslefy Faulkner:** But Jason, you have the next question. 
+
+[00:20:20] **Matty Stratton:** Oh I just had one, there was one thing, a point Mo made about why places don't sponsor the community events and they want to get the thousand and one other thing that I've observed and I could be wrong. Community events tend to be not about.
+
+[00:20:34] **Matty Stratton:** Products and specific technologies. They tend to be things like PyCon or DevOps days or whatever, which means as a marketer, I don't understand the persona as clearly because we've had this conversation about why, it seems like nothing, no shade against KubeCon, but people want to spend way much more money sponsoring KubeCon than DevOps days.
+
+[00:20:53] **Matty Stratton:** And I've had organizers say to me like, Oh, it's because there's so many more people. And I said, no, because they know what they're there to buy. [00:21:00] But someone who comes to an event about DevOps. I don't understand who that is. I don't know if it's my target market or whatever. 
+
+[00:21:07] **Matty Stratton:** And it's about an awareness thing. So one was we would have it at DevOps days where you would get to a fun thing where. There were events. I remember chef did this in one year where they were like, we're going to sponsor every single DevOps day. So it's really clear that we care about the community.
+
+[00:21:20] **Matty Stratton:** And I believe that they did and whatnot. But one of my favorite things that was interesting was for a time at monitor Rama. You didn't have, if you were in a certain part of the industry, you had no choice, but to sponsor monitor Rama, because if you didn't people wondered what was wrong, so if you were like in the monitoring space and suddenly you weren't sponsoring, basically what that said was we are struggling.
+
+[00:21:45] **Matty Stratton:** And this, but now it's, there's much more needing to connect like most to that ROI and to be able to say this is going to actually convert and that the long tail is because everybody when the. Beans start getting [00:22:00] counted and the economy shrinks down it, which it shouldn't because everybody is making lots of money, but whatever.
+
+[00:22:07] **Matty Stratton:** It's, it, it's you, I've said this about Deverell about when the economy gets tough, we have to do things that require less imagination to show value. And the same thing, your sponsorship has to require less imagination. It has to be a shorter line between sponsor dollars. And money, right?
+
+[00:22:25] **Matty Stratton:** That's just, that's where the economy is right now. But you can do those things. Anyway, you had a question. 
+
+[00:22:31] **Jason Hand:** Yeah. You bring up a good point there, Maddie, because I feel like it wasn't just Monitorama. That's an excellent example. I think DevOpsDays was a good example of that too. Like a lot of companies, their marketing teams set aside a budget.
+
+[00:22:42] **Jason Hand:** The company needed to be seen as a good steward of the community as just a player in the DevOps space.
+
+[00:22:49] **Jason Hand:** Sometimes I think that maybe DevOps in general as a term or as a movement or whatever, like we, a lot of folks just have this feeling of what we solved for a lot of those problems. And so now [00:23:00] there's, we just don't have the need to like be there and be involved in those conversations because CICD has already been solved and the incident management has been solved.
+
+[00:23:08] **Jason Hand:** And like just a lot of the things that we were talking about we still talk about them, but in different ways. And so it's definitely that the budgeting has tightened up a lot. And I know for myself, like I'm much less willing to spend personal time outside of my like nine to five work to like work on or attend things, in the evening or on the weekends or stuff.
+
+[00:23:30] **Jason Hand:** I'm just not as interested. And some of that's just maybe age, I'm just grown older and I just rather use my personal time on other things. Some of it, I feel like I'm old and in the way sometimes. And maybe there's like a new crop of people who have a lot more creativity and ideas and I should just step out.
+
+[00:23:43] **Jason Hand:** I get aggravated when people older than me don't do that and I don't want to be that way. Also, a lot of the events have turned sadly into DevRel talking to DevRel. And that bothers me a little bit too. And I don't know what the solution is because, if you look at the [00:24:00] CFPs, that's just what we're getting submissions from.
+
+[00:24:02] **Jason Hand:** That is, that's what a bulk of the submissions are to DevRel. That's their job. It's my job to go and be in communities and talk and stuff, but I don't want to be talking to only other, I don't want it to be a room full of just You know, us, like I want to be talking to engineers and other folks too and learning from them.
+
+[00:24:19] **Jason Hand:** I think the refactoring stuff or the re-imagining of a lot of these events is underway in a lot of places. I can tell you about the DevOps days, Rocky's folks, a lot of them I haven't really been directly involved with this, but I'm going to start participating is they've taken what used to be like meetups and things like that.
+
+[00:24:35] **Jason Hand:** And now they go off into the woods, into the mountains and get together and connect their star links and spend a few days. Working, away from offices, but together with a smaller group of people. I like that idea. I haven't yet gone. I'm going to hopefully go to the next one.
+
+[00:24:50] **Jason Hand:** I think that's later this month. I'll be sharing a link to that in my checkouts later, but it's I think a really creative way. Instead of trying to find, a conference room [00:25:00] or some office that you can borrow or rent or something.
+
+[00:25:04] **Jason Hand:** And trying to get, people still had to pay for a meetup. com, which isn't cheap. So you had to get sponsorship money. And a lot of that is just people don't want to do that anymore. And so I think there is this way there's like new, I, a new movement. I don't know if movement's quite the word, but I like that I'm seeing some creative ways of getting folks together and at least, filling that void of I still miss you all.
+
+[00:25:26] **Jason Hand:** I still want to talk, but I don't really want to do it the way we used to do it. So anyway, those are just my thoughts around that, but let's pivot a little bit. 
+
+[00:25:32] **Mo McElaney:** Just want to mention too, that like for me, my experience in organizing events. Most of it was unpaid labor. The large majority of it was unpaid labor.
+
+[00:25:44] **Mo McElaney:** And I was able to do that before I had kids. And because I was career switching and I felt like I had to to get where I wanted to go. And I just think that people should get paid to do this work. [00:26:00] Either, if maybe you're in DevRel and it's part of your job, but, you That wasn't a common thing that I've seen in community conferences.
+
+[00:26:08] **Mo McElaney:** And maybe people are less willing to do community conferences if they're not going to get paid for the labor. 
+
+[00:26:14] **Matty Stratton:** That is really interesting because first of all, I'm actually a big believer in paying speakers. Not that Oh my God, look at my ice cold take that speakers should be paid.
+
+[00:26:23] **Matty Stratton:** But it's interesting because it's actually a very important rule. So theoretically DevOps days and organizers are not paid. Which again, goes back to that. Maybe we need to rethink some things because this happens often in DevOps and because DevOps has been around since 2009.
+
+[00:26:39] **Matty Stratton:** So a lot of the quote unquote rules and guidelines of this global event. They're not, they shouldn't be sacred with things like that. Cause the world changes in certain ways. And I understand like the reason the intent for a lot of times is you don't want these to be for profit things, but also people who work for a non for profit get paid, so it's a way to think about it, but you're right, because you have this [00:27:00] unpaid labor and it gets into the people who have the ability to do that. Money is not the thing that's annoying about all of this is the conferences that have the money to pay the people and do the things don't do it, or they do because people work there.
+
+[00:27:13] **Matty Stratton:** And unfortunately, community events, we try to be cheap and try inexpensive and accessible and all these things. If you could find some way to reward this, maybe you do that instead of having a big fancy party or. Heaven forbid a yak costume. No, you always have to have money for the costume and actually most importantly to have money for the cleaning of the yak costume.
+
+[00:27:32] **Matty Stratton:** Do not forget that when you pick your mascots. You got to set aside a budget for that. 
+
+[00:27:39] **Jason Hand:** So it feels like we're talking a lot. We're covering several of the difficult areas of running these conferences. I'm wondering, and it also feels like we can bucket it into like pre COVID and post COVID too, but I'm wondering what other things are there that are difficult?
+
+[00:27:56] **Jason Hand:** Those are things to consider when putting on a conference or trying to maintain a [00:28:00] conference over 10 years like some of the ones out there are longer I don't know, Maddie, start with you, maybe on this one. And what are your thoughts? 
+
+[00:28:06] **Matty Stratton:** One of the big challenges with an event like this and doing a thing. And I, it's going to sound maybe a little crass if you can't fire someone who's volunteering for performance. And this is often with many things people want to do. So again, give the, if you go back to the example of when we wanted to kick off the first DevOps day, Chicago, 15 people came to that meeting of the 15 people, three of us are still now, first of all, we're the three people that's crazy that we're still doing it, but how many fall in, how many people at anything like this, you'd see an open source, everything.
+
+[00:28:36] **Matty Stratton:** Oh yeah. I want to help with this. I'm like, I need someone to help. And I'll get this big influx of a dozen people like, we'll help work on the website. And then it doesn't happen. So one of the challenges though, is because especially you're trying to create, like organizing a conference is hard.
+
+[00:28:50] **Matty Stratton:** It has a lot of moving parts. People have different responsibilities. And if someone doesn't do what they're supposed to do or what they agreed to do, you really don't [00:29:00] have a lot of recourse. Because they're volunteering and you can't really, you could yell at them, but you feel like a jerk because someone's volunteering, they're doing their time, and everything like that.
+
+[00:29:10] **Matty Stratton:** And some of it you can't really even, and then sometimes you're like I can't even get rid of you because who else is going to do it, even though you're not. So that's one challenge of organizing. And the other part is just everybody has different ability to do what they want to do.
+
+[00:29:23] **Matty Stratton:** Like in terms of how much they commit, and it is probably not uncommon. I bet you, if you look at almost any community conference event, there are probably a handful of people that you feel like, if you ask everybody organizing team, they're like, yep, you know what? Jason and Wesley, they don't do crap and Mo does everything.
+
+[00:29:42] **Matty Stratton:** And, it's again, that I think is one of the big challenges of that is how do you balance that? 
+
+[00:29:48] **Mo McElaney:** I think that managing the volunteers is the hardest. Aside from money obviously is always a stressor and, making sure you have enough to do what you want to do, but [00:30:00] managing the volunteers and also, mentoring people to take over and handing things off and being okay with them not being done the way you would want them done necessarily.
+
+[00:30:11] **Mo McElaney:** I think that's the hardest part. And that is crucial to making sure your community lives on past you. And yeah, it's a difficult part. I've done it well in the past. I've done it poorly in the past with events that I've done. And so I don't have a great answer, but that's what I think is the hardest.
+
+[00:30:33] **Weslefy Faulkner:** All right. We're good. We're coming up on the end of this, but I want to try to bring it on as actual advice for people who are listening to this that are just considering getting into this field of volunteering.
+
+[00:30:48] **Weslefy Faulkner:** What advice would you give them to help them make the determination if they should or should not? 
+
+[00:30:53] **Mo McElaney:** I think that you should go in 
+
+[00:30:54] **Weslefy Faulkner:** this? 
+
+[00:30:55] **Mo McElaney:** Sorry. I think that you should go into it being really clear about [00:31:00] your capacity and what you have time for and the best way to communicate with you.
+
+[00:31:06] **Mo McElaney:** Because that will really help the organizer with leveraging you in the best way and. And then it also sets both of you up for success, because if the organizer knows what you're there to do and why you're there and, what you're not able to do, then they're not wasting your time, assigning you things and then you don't get them done and then everyone is frustrated and, so
+
+[00:31:34] **Matty Stratton:** I just want to double down on that. I want to agree. And I think you need to, when you're getting involved, be not only very clear about what you can do, but ask those questions if you're going to join an organizing event or something like that and say, realistically, what is the commitment you expect out of me?
+
+[00:31:51] **Matty Stratton:** What is, what, how, what do you need and what does that mean? And then sit down. And assume that it's twice that and say, does that fit [00:32:00] within your bandwidth to be able to do that because things are going to happen. Sit down and take a long, hard look at yourself and say, why do I want to do this?
+
+[00:32:08] **Matty Stratton:** Because there's going to be times that it's going to be super duper hard and you need to know that the reason that you're doing it is enough to pull you through the days that suck, so just know that. 
+
+[00:32:18] **Jason Hand:** Awesome. As Wesley pointed out, we're getting towards the end of our time here.
+
+[00:32:21] **Jason Hand:** So I want to thank both of you for joining us. I think that community events are still out there. I wouldn't, I don't know if I feel to have the confidence to say they're thriving, but I feel like they're evolving. I know that DevOpsDays Rockies is much, much smaller this year. I'm a little bit excited about that for some reason.
+
+[00:32:38] **Jason Hand:** I think it's going to be, I don't know, maybe I just like change as long as it's a good change. I think it's healthy. They're holding it at a brewery this year. I'm just, I'm optimistic, to see how things are going to change a little bit here.
+
+[00:33:43] **Jason Hand:** Let's pivot away into our checkouts. As most of those of you've been listening to the show forever, we spend the last 10 minutes or so just going around the room and letting our guests and whoever's hosting share some of the different things that they are thinking about, reading about, watching, talking about just [00:34:00] anything that's on top of your mind.
+
+[00:34:00] **Jason Hand:** Moe, I guess if you are Ready? Let's maybe start with you and then go to Maddie from there and then Wesley, and then I can wrap things up. So what do you got for checkouts? 
+
+[00:34:08] **Mo McElaney:** Okay. So I am a contributor to the contributor covenant and we are working on version three of that code of conduct.
+
+[00:34:18] **Mo McElaney:** So if you want to get involved in version three of this, a big part of it is we want it to be more transferable to in person events. not just open source projects. Relevant to this conversation. I also just this past Monday presented at PI data Vermont on cognitive bias and machine learning.
+
+[00:34:40] **Mo McElaney:** So if you are interested in that, you can check out the video it's coming out soon. I'm also giving that talk at AI for the rest of us in London this fall. If you're around there or thinking about going to that, stop by and say hello. And yeah, just non tech related. I'm also a Master [00:35:00] Gardener intern out of the University of Vermont.
+
+[00:35:04] **Mo McElaney:** So if you have garden questions, you can go to the Ask a Master Gardener hotline. You probably have an extension locally to you if you're in the U S. But yeah, so I hope if you are in a part of the world where gardening is possible, that your garden is lovely. 
+
+[00:35:22] **Matty Stratton:** You're a master gardener.
+
+[00:35:23] **Matty Stratton:** That is amazing. 
+
+[00:35:24] **Mo McElaney:** Haven't finished my certification yet, ~~but ~~
+
+[00:35:26] **Matty Stratton:** ~~you are~~ you are, you're closer to it than the rest of us. I assume I know I shouldn't speak for Wesley and Jason, but I'm going to guess.
+
+[00:35:36] **Jason Hand:** All right, Matty. Let's hear your checkouts. 
+
+[00:35:38] **Matty Stratton:** Yeah, a couple. So one thing there's a little bit of a theme here. So I've been getting a lot into weightlifting and working out over the last bit of time. And I can go on and on about that. And we'll talk about that another time, but there's a couple of things to check out.
+
+[00:35:52] **Matty Stratton:** One is there's this app that I like to do for keeping track of my lifting and it's called heavy H E V Y. There's a billion of them. And of course, [00:36:00] you'll see all the ads for all the AI generated and stuff, but literally you just want to keep track of stuff. Along those lines, there's this great trainer.
+
+[00:36:07] **Matty Stratton:** And her website is, she's a beast. co and she has this awesome program. If you're just getting started with lifting called couch to barbell, it's the liftoff program, but what's the greatest thing about it is there's a discord. For members of her newsletter. So basically for seven bucks a month, which is well worth it.
+
+[00:36:23] **Matty Stratton:** I spent so much time trying to find a community of people to live because of accountability and to learn from and everything. And everyone was like, here's an influencer. A lot of them can follow on Instagram. I'm like, that's not a community. And my friend Dave Shackelford that I used to work with at Patriot duty, clued me into the lift cord from this, and it has been the most amazing way.
+
+[00:36:42] **Matty Stratton:** I've got everybody gassing each other up. You have folks in there who have just started doing anything to people who are massively competitive Olympic lifters and all of this, and everyone. It is amazing together. So check it out. And then finally, the other thing I've been into lately, and I know I'm like a decade behind is fallout.
+
+[00:36:59] **Matty Stratton:** So the fallout [00:37:00] TV show, if you haven't seen it, check it out. It's amazing. It got me hooked on the game. Because the lore is great. It's quirky and funny. So anyway, check out
+
+[00:37:11] **Matty Stratton:** and everyone's dude, we've been playing Fallout. Like we started playing fallout like 20 years ago. Where are you? I'm like, cool. Soon I will learn about Mario. Just kidding. 
+
+[00:37:17] **Weslefy Faulkner:** I 
+
+[00:37:17] **Matty Stratton:** I already know about Mario. 
+
+[00:37:21] **Weslefy Faulkner:** Yes. Also the fallout TV show is really good. And as an intro in terms of getting the, knowing what the scenario is for me, I only have one checkout and it's a book that I finished it's called, you're not listening.
+
+[00:37:35] **Weslefy Faulkner:** And the book is that I wanted to get it just to make sure that. I had all the techniques to stay engaged as a person with ADHD. There's often a conversation where I check out in the middle. And this gives some really good techniques about how to stay engaged, what to listen for, what are the reasons for not being engaged how to re engage how to understand if someone is not being engaged and making sure.[00:38:00] 
+
+[00:38:01] **Weslefy Faulkner:** There are techniques in which you can phrase a question and pose an idea where you can get the maximum amount of engagement, which I think is also very important. Once again, the book's called you're not listening by Kate Murphy. 
+
+[00:38:12] **Jason Hand:** Awesome. Yeah, I definitely need to add that to my list.
+
+[00:38:14] **Jason Hand:** I've got a few things here. I've got a couple of books. And then also I had mentioned that sort of new community type of event that's happening locally. If you're in the, what's called the Colorado region. Cause I feel like it's going to happen all over the place. You should check out wild spaces.
+
+[00:38:29] **Jason Hand:** That work. And or if you live in an area where you can get away from things maybe consider starting something similar. I think it's a pretty neat idea, very creative. And the books that I have are from a friend. SRE advocate former colleague at Microsoft David Blank Edelman.
+
+[00:38:46] **Jason Hand:** He's been a guest on our show a few times, but he just recently put out becoming an SRE and I'm I'd say about a third of the way through that. And it is really good. He's very funny. He's very smart. And all of that comes through in the book.
+
+[00:38:58] **Jason Hand:** He's got a lot of [00:39:00] smart people that he's talked to. So anyway, if you're in the DevOps SRE space, I highly recommend it. The other book I have actually David recommended this to me. So thank you, David. If you're listening. It's called, you have not heard your favorite song. And this is from somebody written by somebody who formerly was at Spotify and really just talking about sort of the transition into the digital music world.
+
+[00:39:19] **Jason Hand:** I think a lot of us have feelings around that. And I know for myself I'm big into music, both listening and playing. And I haven't gotten very far in this book, but I'm very curious to see what it does expose to me in terms of what it is you're missing out there. I think that there's, we all, I'm always coming across new music that I didn't know about.
+
+[00:39:36] **Jason Hand:** So I don't have a lot of feedback on what the book's going to tell me, but David says it's great. So I'm going to trust him and I'm looking forward to reading it. And I think that's it for me on checkouts.
+
+[00:39:45] **Jason Hand:** So anyway, thank you all for being here. Mo Maddy and Wesley, of course it's been great. Usually PJ, when he's on the show he's out today both him and Mary, but usually at the end, PJ likes to take us out with a little [00:40:00] quote from a musician that is somewhat relevant or just feels like the right vibe for today Wesley tossed a few into chat for me here because we didn't quite think about it ahead of time.
+
+[00:40:09] **Jason Hand:** I'm going to choose this one from John Lennon here that I like. For those of you who want to go out there and come up with something new to keep these community events, either floating as they are, or refactor them, like we said, or start something new.
+
+[00:40:24] **Jason Hand:** I encourage you to find some creativity, whatever that takes to do that. And the quote from John Lennon is there's nothing you can do that can't be done. And with that, I am going to say goodbye. Thank you so much to everyone joinning us today and we'll see you on the next episode of the community pulse.
+
+[00:40:44] **Jason Hand:** Bye.

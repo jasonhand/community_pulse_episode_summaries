@@ -1,0 +1,109 @@
+[00:00:00] **Jason Hand:** That was a really great episode. 
+
+[00:00:02] **Wesley Faulkner:** Yes. Actually, it was more filled with questions. Content that I didn't expect because I thought I knew the subject so well, but hearing those perspectives actually really put it in focus for me. 
+
+[00:00:15] **Jason Hand:** And we also completely went off script. We had a, what, one, two, three, four, five, six, seven, eight questions pre selected that we were going to get through.
+
+[00:00:24] **Jason Hand:** We didn't even get through half of them. And we also pivoted and changed the course a little bit based on how the conversation went along. 
+
+[00:00:31] **Wesley Faulkner:** Yeah, it was really great. 
+
+[00:00:33] **Jason Hand:** Yeah for anyone who may have stumbled across the after polls before listening to the community polls, we just got done talking with two of our guests Matty, a Stratton and Mo MacElaney. I'm pronouncing her last name wrong.
+
+[00:00:45] **Jason Hand:** But it goes back. And we basically wanted to talk about community events and where we are with it and how things have changed. We talked a lot. Where things are, how things have changed through COVID and did bucket things into a pre COVID post COVID a lot of different [00:01:00] subjects.
+
+[00:01:00] **Jason Hand:** That we got into there. And I thought it was really interesting. I think nobody's surprised that budgets have tightened up and that it's just harder to do things the way we used to do it. And I don't know if that's because money was just easier to come by, sponsorship money.
+
+[00:01:15] **Jason Hand:** It was, so therefore it was easier to like, put these things together. But times have changed and COVID did that did play a big role in that. But I think we also identify that it's not just that. I think that some of us that have been involved with these things, we're all changing too, and most of us are still involved with these types of roles professionally, but at least for me personally, I pointed out that I Tend to shy away from spending a lot of my free time, and when I think about DevOps days Rockies, which is like the core main community event that I was involved with for years, I felt like I was working round the clock for the months and months leading up to that. And me, not just me other organizers as well. And that, I think I knew it was never really [00:02:00] sustainable, but it took a couple burnout sessions, burnout, periods for me too.
+
+[00:02:05] **Jason Hand:** Finally, I just don't think I want to keep doing this. I don't think it's worth the burnout. I don't think it's worth the effort. And then also I think it's always good to get out of the way and let other people step in and take charge a little bit and just see what they can do with stuff.
+
+[00:02:22] **Jason Hand:** So it was nice to hear a little bit of confirmation, that it's not just me that feels that way. What's your take on that? 
+
+[00:02:29] **Wesley Faulkner:** Yeah, it does take a lot of time to go to these events, but I also wanted to say it does take a lot of money and we were talking about sponsorships and getting enough sponsors, but I'm talking from the attendee perspective, I think.
+
+[00:02:41] **Wesley Faulkner:** Ticket costs, entry fees have also steadily moved up as I think the expectations have also moved up of what to expect from a conference. I do remember like a decade, two decades ago when going to conferences, the expectations We're way [00:03:00] smaller. You just expected to run into people, have a microphone, maybe, sometimes not, a cafeteria, auditorium.
+
+[00:03:09] **Wesley Faulkner:** But now there's swag that's expected. There's branded t-shirts and lanyards and receptions, food and drink. It's less scrappy. And so the expectations have made it so that it's less achievable. I think for me going to conferences I don't know how many I would go to if my employer wasn't helping to pay the bill for me to get there, both from a transportation cost, but also just the ticket costs are high.
+
+[00:03:36] **Wesley Faulkner:** And so I do think maybe a refactoring is needed where it pushes aside the corporate sponsorship to be more scrappy and more community involved to make sure things happen. A lot more volunteers, a lot more donated spaces or even like an outdoor park, or there are ways to have some of this communion without some of the fanfare that I think [00:04:00] I at least have gotten to the point where I'm expecting when I go to a conference.
+
+[00:04:04] **Jason Hand:** And I think of some of them. Disappointment. I feel in my nostalgia about how things used to be in the good old days is just a victim of success for a lot of these events, they started off small or smaller than they were, pre COVID and then. With popularity of the events, mostly speaking again of DevOps, these Rockies, it started off, maybe a hundred people, a couple hundred people, and then it just kept growing and growing.
+
+[00:04:29] **Jason Hand:** People get, the word got out that this is a valuable event. And not just for the participants, folks that are showing up as attendees to sit in the audience, but also those who were speaking and the sponsors. And it just, there was a lot of value being like plugged into that community.
+
+[00:04:45] **Jason Hand:** And so it kept growing and growing. And in order to make sure that we are being inclusive of all the people that want to come, we kept having to get a larger and larger venue and we'd have to get larger food, more coffee and more swag.
+
+[00:04:58] **Jason Hand:** And it just kept [00:05:00] getting larger and larger just to meet, I guess what you'd say is the demand of that event. And then COVID came around and reset things a little bit. But I think it didn't completely reset for everybody. It hasn't been really until after COVID that I've seen things start to trend a little bit in the smaller direction where Matty pointed out, a lot of DevOps days, events have.
+
+[00:05:21] **Jason Hand:** Had to either change dates or just completely cancel for a variety of reasons, many contributing factors. And I know in Denver, it's the same, but I think it's neat to see this re-imagining of what these events can be, at the point is to just get members of the community together and share ideas.
+
+[00:05:41] **Jason Hand:** Let's not lose sight of that. There's a lot of ways that can be done. You don't need a quarter of a million dollar budget like Chicago had for their DevOps days. I pointed out, there's some folks from the local people here in Denver, who are now doing this wild spaces thing, which I think sounds really cool, really creative, maybe for those who like to be outdoors and enjoy camping and things like that.[00:06:00] 
+
+[00:06:00] **Jason Hand:** But to me, that's, it's thinking outside of how things used to be done. And I hope that there's more of that. I actually had this vision recently of just getting people together. I don't know, at a park. I think you mentioned bringing, bringing people together at a park and having just a whiteboard or you remember those old projectors that's just like a lamp and the, like the clear.
+
+[00:06:22] **Wesley Faulkner:** The overheads. 
+
+[00:06:23] **Jason Hand:** We don't have to have these big blown out produced events to get people together to share ideas and to learn. 
+
+[00:06:30] **Wesley Faulkner:** Yeah. 
+
+[00:06:31] **Jason Hand:** And I think I've come to that. Realization or, I've at least accepted that recently.
+
+[00:06:37] **Jason Hand:** And it hasn't quite pushed me to the point where I'm ready to start something. But I would maybe think about attending something like that more than I would an event that looks more like a community event. And some of that's also just like I pointed out, at least for the community events that I go to, so many of our challenges have been solved and outside of [00:07:00] AI, I don't know what else there is to talk about. We have come up with good solutions. I hate the term best practices. It really does depend on the situation, the company, the community. But I think we've shared a lot of ideas that have really helped others grow. And so what's left to really talk about, I think, is another vibe that I'm having.
+
+[00:07:21] **Wesley Faulkner:** So the space is matured enough that we're not solving new problems. We're just rehashing old things. And then that causes the people who've been a part of the space to almost graduate out, like they've matured past having to have these discussions and look for these answers. And it's just a really good point in terms of innovation.
+
+[00:07:38] **Wesley Faulkner:** I think there's also a stagnation there. I have had people, even colleagues, say that they want to get in front of developers and they think community events are a good way of doing it, but they can't find them. They don't know attendance numbers. They don't know locations. They don't know how, if there's a way to easily even give them [00:08:00] funds.
+
+[00:08:00] **Wesley Faulkner:** Do they have an entity to give them funds? Does a PO need to be created? It's not been like an Uber. Events created where there's a one stop shop to actually find these. If I wanted to get in front of a. net developers, then I have to do the research. I have to do the work to find out which conferences cater to this group, what are the sponsorship packages like, and there's not really been an innovation or a focus on.
+
+[00:08:24] **Wesley Faulkner:** On doing that, because these groups are all diffuse. They're not one conglomerate that's able to lobby this to get together and to solve this problem. And there's no way that someone else could be the authority of this, where they would be able to have that power to be able to do that. Everyone is doing these events because they are getting to their own specific audience.
+
+[00:08:43] **Wesley Faulkner:** They want to do it their own specific way. And it's something where, unless something. Can make it easier for people to give them money. The money will continue to probably be an issue going forward, but it also, hopefully it'll move into more intimate spaces, more conversations that happen [00:09:00] around things like for me, I am still extremely interested into work culture and environments.
+
+[00:09:06] **Wesley Faulkner:** How do we make sure that, yes, I know I need to, what I need to do, how can I make sure I create an environment where I can do my best work? How do I create an environment where. When there is a forecast that there could be a catastrophic failure, meaning a la like CrowdStrike either from the CrowdStrike side saying, like, how do we make sure that we do better testing or from the customer standpoint of saying, how do we be more redundant and how do we make sure that this is not an exposure we have?
+
+[00:09:35] **Wesley Faulkner:** Those conversations, I think probably did happen, but no one was able to really get those points across. So I think creating a culture around getting work done is something I would still like to get a fix and work out. But how do we make space for these conversations that still need to be had, even though that like a bulk of the, yes, we know how to solve it, but the question of how do we implement those solutions are still something that [00:10:00] I still need to be hashed out.
+
+[00:10:02] **Jason Hand:** Yeah, you made me think of something too. Obviously there's places online there's community groups or slack groups and discord and whatever, where there are people getting together and talking about stuff, but I still stand on that. I'm not going to go to a lot of after hours things.
+
+[00:10:16] **Jason Hand:** And I know at least my company data dog and others, like we have policies on how many. Conferences, community events, whatever it is that you can actually go to, especially if travel is involved. Many of them have limitations on how much they can get involved and how many of those events that they can go to.
+
+[00:10:35] **Jason Hand:** And if they've only got a couple that they can actually set aside time or budget or whatever to attend. They're probably going to pick the ones that have the biggest return on investment. And I'm not just talking about money. Like actual energy that's invested to go to these things. And it might not be the community events, they're just not providing the same value that they used to.
+
+
+
+[00:10:56] **Wesley Faulkner:** Yeah. What came first? The value the [00:11:00] focus or is it the money and the expectations that maybe it's COVID maybe it's business needs. I think generally speaking, time has been inconsistent and less predictable and that's making it more complicated.
+
+[00:11:15] **Wesley Faulkner:** Hopefully, I hope these. Community events still continue. I would like to still see them exist. I think it would be a sad thing if they all went away. So I hope that things get figured out either on the company side, the attendee side, or the organizational side to make it sustainable and if it needs to change, if it needs to have a different structure, or if it Needs to have a re-imagining of some sort.
+
+[00:11:38] **Wesley Faulkner:** I just want to see them still go because I still have a fondness for them. I don't know if it's more of a retro thing of thinking about how I got my start, how I got to meet some of the people I've met, and or maybe that just makes me old . 
+
+[00:11:50] **Jason Hand:** We are getting up there. Yeah. I think there is, I don't think things are just gonna go away.
+
+[00:11:54] **Jason Hand:** I don't think we're gonna wake up one day and there's no more community events. I think that they're just evolving. [00:12:00] And maybe they're getting smaller. We did have a bunch of questions that we didn't get to, like, how do you ensure that you can scale some of these community events? And I don't know, I think what I'm concluding is that we all agree that maybe that's not necessary.
+
+[00:12:13] **Jason Hand:** Maybe that's part of the problem is that we expected these things to just continue to grow. They don't need to or they need to shift in some way. And also the question of like, how do you continue putting on high quality events? Quality is, it's quite subjective and what makes a high quality event?
+
+[00:12:31] **Jason Hand:** Do you have to have a large screen that slides are being put onto with a really great PA system and like food is really good. And the coffee's great. And yeah, these, the, after so afterwards, social hours, like a cannot miss type of thing. We could have gone into that and that would have probably been much more interesting pre COVID because I felt like you did see that a lot across community events as you were.
+
+[00:12:57] **Jason Hand:** I think maybe we have to reassess what [00:13:00] better means. I'm just here to learn. I'm here to make connections and I want a better experience around that.
+
+[00:13:05] **Jason Hand:** I don't necessarily need this, high product high highly produced. Things. And I think that's totally fine too. 
+
+[00:13:15] **Wesley Faulkner:** I think it would also be nice if we had more conferences too. Yeah, which is more of a focus on people sharing knowledge, which I think some of this has been highlighted that it's a popularity contest when you talk about speakers, getting the big names.
+
+[00:13:27] **Wesley Faulkner:** And the bigger names drawing bigger crowds to keep that up. But if we go back to the content and have high quality content, hopefully maybe we'll see more of those. Yeah. 
+
+[00:13:39] **Jason Hand:** Yeah, I totally agree. I think we are just about out of time here for our after polls. But Wesley, this was fun getting together with you and chatting with Mo and Matty.
+
+[00:13:50] **Jason Hand:** It is always fun to have them around and learn. And I don't know, it's definitely been a nice conversation just to revisit some things around the community. I know, like I've [00:14:00] mentioned, I haven't been as involved. I miss it, but also I don't miss, like some aspects of it, but I also definitely miss it.
+
+[00:14:07] **Jason Hand:** Other aspects too. So I'm hoping that there's like a shift towards something new that draws me in. I'm sure there will be, there's ways that you can get people off the couch or, change their plans from doing something boring to going and meeting with some people.
+
+[00:14:25] **Jason Hand:** But I think we're going to have to get creative about it. And I'm looking forward to seeing what comes from some of the community events that are out there, 
+
+[00:14:33] **Wesley Faulkner:** wise words, good thoughts, good hopes. And I think that concludes our after post after pulse, and hopefully we'll have PJ and Mary on our next show.
+
+[00:14:44] **Wesley Faulkner:** Thank you for listening and we will see you all next time.

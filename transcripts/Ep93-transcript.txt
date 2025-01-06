@@ -1,0 +1,135 @@
+[00:00:00] **PJ Haggerty:** Hey everybody. And welcome to another episode of Community Pulse. We're super excited to have you. 
+
+[00:00:04] **PJ Haggerty:** This week we decided we would take a look at a new phenomenon, the DevRel Foundation, the Developer Relations Foundation from our friends at the Linux Foundation.
+
+[00:00:12] **PJ Haggerty:** Some of you are probably already aware of it. Some of you are probably in the discord chat. Some people might not know about it at all. So we want to take this opportunity to share some information about it and see what we could find out and how we felt about it. So with that, I am joined by, of course, Jason Hand and Wesley Faulkner. Wesley, you've been doing a lot of work with the DevRel foundation as far as like looking at, working models and how people can actually get things done within the foundation.
+
+[00:00:37] **PJ Haggerty:** So do you want to kick us off and give us a description of what's going on? 
+
+[00:00:41] **Wesley Faulkner:** Yes. Let me lay a little bit of the groundwork to understand my involvement and how. So I'm part of the steering committee. There's five of us in total. And I am the newest member of that five person steering committee.
+
+[00:00:55] **Wesley Faulkner:** I've been part of the DevRel foundation since June of this year. [00:01:00] And the foundations, the start of it had, I think, started way before that even before the beginning of the year. And the involvement with the Linux foundation happens like I think in around the February timeframe. And so the thought is that there are Certain types of challenges that are unique to people in dev rel defining what we do is one of them that I think is something that people are familiar with, but others that have been lingering around about how do you measure dev rel and like adequately, like, how do you plan for the future and how do you roll out a developer relations program?
+
+[00:01:35] **Wesley Faulkner:** Those are like the broad strokes of it. So the thought of the Dev Rel foundation is to be a nonpartisan home for these types of discussions. And we are currently set up as the steering committee, as people who are trying to facilitate those conversations, give structure and processing of what timeline we should have these conversations and be helped, like [00:02:00] with the being a home to people to find this, Information once we have it all created and to be a repository for a lot of existing knowledge, but also allow the connection tissue to create new knowledge that is not there right now.
+
+[00:02:16] **Wesley Faulkner:** So that's like the whole arc of it. Depending on when you're listening to this podcast, we are currently enrolling people to take on and champion these specific areas of topics. Here are the lists that we've aggregated from the community of the challenges.
+
+[00:02:33] **Wesley Faulkner:** And we're looking for managers to say I want to champion that and run it to ground to make sure that we actually have things defined to help us all as dev or all practitioners. 
+
+[00:02:43] **PJ Haggerty:** And I want to zero in because I think that some people I was in the initial meeting kickoff thing that happened back in June and there was a concern and it was oh, this is a town hall, not really a feedback thing, but more of a town hall where we'll come and tell you what we think is [00:03:00] good and you can come and tell us if you don't think it's good.
+
+[00:03:03] **PJ Haggerty:** But what it really is is a participative activity. Not everybody wants to, and that's okay. But the idea is really behind let's put together a compendium of knowledge about what we do and put that so that when people reference it, they can easily say, this is the way it works.
+
+[00:03:22] **PJ Haggerty:** It's a constantly moving organic body. It's similar to software. There is nothing done on this. Would that, do you think that's accurate? Great. 
+
+[00:03:31] **Wesley Faulkner:** Yeah, I think that initially I was on that initial feedback preview call as well. And that session, I think, raised a lot of awareness about how developed the thought was of where things were going to go and how open to input.
+
+[00:03:47] **Wesley Faulkner:** The foundation was to the community and letting the community shape the direction and the focus of the foundation. And I think to its credit, the foundation has taken a lot of that into heart. [00:04:00] And I think that's when I joined actually because of that call or after that call. A lot of the work that I've done, at least on the initial side, was finding a way to make sure that the community's voice is heard.
+
+[00:04:12] **Wesley Faulkner:** And then once we get all of this feedback, how do we actually act on it? Because it feels like if you think about the possibilities, the developer relations, there's just so much out there. How do we choose which ones that we're going to help move forward? And I devised or helped with the rest of the people in the steering committee and other feedback.
+
+[00:04:31] **Wesley Faulkner:** From people like you, PJ, about how we address the needs of the community in a way that doesn't feel exclusionary. 
+
+[00:04:39] **PJ Haggerty:** Think exclusionary is the word you're looking for. Yeah. 
+
+[00:04:40] **Wesley Faulkner:** And also how do we actually be productive to actually move forward instead of having constant discussions all the time and where do we actually make sure that it was the right time to do action?
+
+[00:04:52] **Jason Hand:** Wesley, I got a question. I feel like a lot of our episodes, we generally take a stance on [00:05:00] when it comes to implementing certain things that it just depends on the situation of the organization, the team, the objectives of the org that they're in, there's always just like so many dependencies and variables that go into an implementation of things to take a stance on, how certain aspects or certain elements of developer relations Has found success.
+
+[00:05:23] **Jason Hand:** I'm wondering if there's plans or if there's been any discussion on including lots of different implementation scenarios rather than trying to be one single source of truth, because I feel like that's probably going to be some pushback and going to be some feedback that maybe we hear from this type of organization or foundation, of what goals do we have about putting into concrete terms what.
+
+[00:05:48] **Jason Hand:** developer relations is or isn't when we know that there's just so many ways to do it, Startups are going to do it one way enterprise is going to do it a different One part of the world's going to do it in one way [00:06:00] versus others so Anyway, just curious what your thoughts are on that 
+
+[00:06:04] **Wesley Faulkner:** Yeah, there's different verticals, like there's regulated industries like fintech, there are different areas like nonprofit work and open source software as opposed to closed source software.
+
+[00:06:14] **Wesley Faulkner:** Then there is developer first, and then there's developer plus then you mentioned different languages, but there's also different geos and there's also different access to technologies, like parts of the developing world where steady connected electricity and internet is not something that's.
+
+[00:06:31] **Wesley Faulkner:** So there's many different facets. So the answer is, we are trying to be as inclusive as possible by making sure that people have the opportunity to put forth their specific concern. At the same time, we are requiring that as groups are formed around these topics, that there are at least three managers.
+
+[00:06:56] **Wesley Faulkner:** To each of these topics to make sure that there's not [00:07:00] one perspective that's running the show. And then each of these topics, the managers need to recruit at least eight participants. This is to increase the diversity and the different ways that people see things and to make sure that these edge cases or main cases are incorporated into the final result.
+
+[00:07:20] **Wesley Faulkner:** And last, but not least, this is supposed to be an iterative process. So whatever the group Creates, it will be posted to GitHub and you can, and everyone and anyone can put in pull requests so that their voices are heard and their perspectives are also taken into account. 
+
+[00:07:39] **PJ Haggerty:** And you're saying all this and for those of you who are listening to the audio and saying, wow, Wesley really has this down.
+
+[00:07:44] **PJ Haggerty:** Wesley has very much structured this and put it into a GitHub document for people to interact with and understand. And I think this that allayed a lot of my concerns when this first came up, because I was like, is this an exercise in student government where the most popular kids [00:08:00] will be voted into their positions of power.
+
+[00:08:01] **PJ Haggerty:** And everyone else will just sit by the wayside with no voice. And Wesley was very careful to design a way in which that wasn't. I think one of the, one of the things that I liked the most about the structure of this, and we'll add the link to the GitHub and the show notes, but one of the things that I really enjoyed about the structure of this was that anyone who is a manager for only a certain period of time.
+
+[00:08:24] **PJ Haggerty:** This isn't a situation where you are, to use the term, they often use an open source project. You're a benevolent dictator for life. Which is that, that's your Linus's and Your David Heinemeyer Handwritten. It's great that you create this thing.
+
+[00:08:37] **PJ Haggerty:** Please let other people as it evolves, take it over. And that's baked into the design. And I feel like we're laying a lot on Wesley here. And I think that there's varying differences between what even the people on this podcast are doing as far as level of participation.
+
+[00:08:51] **PJ Haggerty:** Like I'm a passive participant. I've been watching what's going on, participating in the discord. Talking to some people about some things, but I'm not a manager. [00:09:00] Wesley's a part of the steering committee. Mary had, is that some of those initial meetings are taking a step back due to some busy work related things.
+
+[00:09:07] **PJ Haggerty:** And Jason, are you in the collective? Are you in the discussion or are you just an external passive observer at this point in time?. 
+
+[00:09:16] **Jason Hand:** Definitely a passive observer. I think, just through knowing Wesley and the conversations we have here and there I may be a little closer tHand others in terms of just, when I started hearing about it.
+
+[00:09:27] **Jason Hand:** But yeah, at this point I'm not involved. Other than, like I said, just conversations I've had with Wesley. But definitely curious to learn more about what's going on with it. And I quite honestly, I don't have a lot of depth in knowledge around any of the Linux foundations or any just foundations in general.
+
+[00:09:45] **Jason Hand:** And I don't know if Wesley, if that's something you can dig a little deeper into, like what would somebody who has no knowledge of what the Linux Foundation is and any of the offshoots of that, like what are the core benefits? 
+
+[00:09:57] **Wesley Faulkner:** I gotta say that there's something that I have to [00:10:00] say about the Linox Foundation in general is that the foundation is an umbrella of other open source projects. So Linux itself is a Linux Foundation project. Git. Is a Linux foundation project. And there's several other Valky is also big and new and it was just launched at the open source summit.
+
+[00:10:21] **Wesley Faulkner:** In September. 
+
+[00:10:23] **PJ Haggerty:** Don't forget about that. Dang Kubernetes that people keep talking about. The kids are all under the coop. Yep. CNCF is 
+
+[00:10:28] **Wesley Faulkner:** underneath. Yep. The CNCF is under the Linux foundation. Those projects that you know, and love have come under that same umbrella.
+
+[00:10:36] **Wesley Faulkner:** But I have to say the dev rel foundation is different tHand any of those are in all of the other projects because that this feels more of, A governance body or like a list of documents and not necessarily focused on code and making a product from that standpoint, which I think is a little bit different.
+
+[00:10:58] **Wesley Faulkner:** And the question is [00:11:00] why the Linux foundation, and we have a lot of these addressed in our FAQ, if you go to the But for my take that we wanted a place in a home. That was nonpartisan, meaning like it's not owned by a company or someone with specific interests. One that has a history of supporting software and open source processes and making sure it's community like the way that we come to decisions is open to the community and the community can participate 
+
+[00:11:32] **Wesley Faulkner:** I can't think of any that checks all of the boxes. So it's part of the Linux Foundation because it is one that does already have a reputation. They are giving us resources and supporting us from a process standpoint. And it allows us to have access to other projects and maintainers and people who've been doing this way longer tHand we have.
+
+[00:11:55] **Wesley Faulkner:** And so being under that umbrella also gives us that connection and [00:12:00] of the siblings who are also in the project. But also just to make sure that it is noted that we are unfunded product projects under the Linux foundation. So we were not trying to make money. No, one's giving us money. 
+
+[00:12:14] **Wesley Faulkner:** It's just right now it's all community and volunteer work. That's in the found formation of this foundation. So it's our passions that are driving it. So if there are better suggestions, we are open to hear it. But right now the Linux Foundation sounds like a really good choice and they've been an excellent partner for us.
+
+[00:12:36] **Wesley Faulkner:** Without her support and her guidance and her doing the intros and her doing a lot of the heavy lifting I think we wouldn't have gotten as far as we have right now.
+
+[00:12:47] **PJ Haggerty:** I think it's interesting you mention that because I know that organically around I had been talking for a couple years with people. Wesley, you and I had a conversation that I think is now two and a half years ago about putting together some sort [00:13:00] governance document, some sort of something to say, this is DevRel.
+
+[00:13:05] **PJ Haggerty:** This is the way it worked. This is, giving some sort of guideline to what this all means. I think that some people might be like the Linux foundation eyebrows raised what's going on here at the same time, I think, without having that logistical support, if not the organizational support, this may never have come off because so many people were working in so many small working groups, but not really getting anywhere because they couldn't figure out that logistical component, like how do we do this and not exclude people?
+
+[00:13:32] **PJ Haggerty:** How do we do this and ensure that we have the good mindshare and the diverse mindshare that we need to actually share this information. These are questions that luckily the Linux foundation has answered before, and therefore they can answer it for this. 
+
+[00:13:49] **Wesley Faulkner:** Yeah. I got to say that there's been a lot of reaction to the Linux foundation.
+
+[00:13:52] **Wesley Faulkner:** And even just the DevRel foundation. Let's just talk it from there about one saying, why do we need this? That's one of the feedbacks that we've gotten. The [00:14:00] other is, this is amazing. I, this is, I'm so excited. And then I think what Jason also said is that. I'm going to wait and see, so will we, will this have legs?
+
+[00:14:11] **Wesley Faulkner:** Will this keep going? Will this actually produce anything? Will this make a change? And when we were working on our little project back then, Jason PJ it was, some of the conversations were just like, why are we the two people? Or what, why are we the ones to be able to hold this torch and I think the Linux foundation kind of answers some of those questions in terms of it, are we a trusted organization or who legitimizes us for being a person that could have a voice?
+
+[00:14:43] **Jason Hand:** So one more thing I wanted to touch on because I do see a lot of benefits that can come and clearly there's, great examples from the Linux Foundation of success and how this kind of community effort. Can come together and really help in a lot of ways, but a concrete way that I think really [00:15:00] stands out to me that could help for a lot of those folks who are either new to developer relations or in community in general, or maybe they're out on the market looking for new roles because we do hear so much of a variety in terms of what DevRel can look like.
+
+[00:15:15] **Jason Hand:** And you see it like on new job postings where one company is looking for. With a title as a developer relations professional or some variation of that, but then looking through the description, it looks like it's going to include some roles and responsibilities that have traditionally not aligned with developer relations.
+
+[00:15:32] **Jason Hand:** Oftentimes there's just so much variance in terms of what DevRel roles could look like, but this might actually help. Narrow that a little bit and make it easier for both those who are looking to fill roles and those who are looking to find new roles. We're all speaking the same language on what the expectations are here.
+
+[00:15:51] **PJ Haggerty:** Yeah. There's that centralization concept of, maybe if we can define and say, this is what DevRel looks like, then [00:16:00] maybe the hiring managers and the people at LinkedIn and indeed, and what have you, is Monster.com still a thing? I don't think Monster.com is still a thing.
+
+[00:16:07] **PJ Haggerty:** But maybe the people who are in charge of all of this hiring and doing all these things, maybe they can finally have a good definition to understand that maybe you're not looking for a developer advocate or a developer relations specialist, maybe you're actually looking for someone in marketing.
+
+[00:16:24] **PJ Haggerty:** Maybe you're actually looking for a sales engineer. Who's technically minded, but they're to speak to onboard clients. Maybe you're even looking for customer success. Because like you said, Jason, I've looked at a lot of these job descriptions, especially over here that I was unemployed.
+
+[00:16:39] **PJ Haggerty:** And a lot of these people do not understand that their questions that they're asking or that the positions they're describing are not developer relations positions, but. The buzzwords here. So let's go with what we got. 
+
+[00:16:52] **Wesley Faulkner:** And also to be frank, these questions have been answered and probably it's been answered multiple [00:17:00] times by different people and everyone who's been in DevRel for a very long time can see and read these and say, that's actually valid.
+
+[00:17:09] **Wesley Faulkner:** Someone who's brand new may not have that ability to distinguish what is. Actually something that makes sense. I think the DevRel foundation will help those new people to be able to do some of that work for them.
+
+[00:17:21] **Wesley Faulkner:** Not necessarily have to create all this new documentation and resources, but aggregating some of the things that are out there that is really good, high quality work that we can help with bringing them into the fold and allowing people to use us as a central point to jump off and find these other resources.
+
+[00:17:38] **PJ Haggerty:** Yeah, that's awesome. And I think that I'm looking forward to seeing what comes out of it. People should not have an expectation. Let's set some boundaries here. People should not have an expectation that like come January one, the dev rel foundation is about to drop the hottest mixtape you've ever heard about dev rel.
+
+[00:17:54] **PJ Haggerty:** These things are going to take time. Yes, we have hope, but hope takes work. 
+
+[00:17:59] **Wesley Faulkner:** [00:18:00] And 1 of the things that we're asking or requiring for all these groups that form is that they give at least a monthly update on 1 of our open calls and open meetings that we do every week.
+
+[00:18:10] **Wesley Faulkner:** If you want to stay abreast about the progress take a look in at. Our GitHub and look at what the process we're working and fostering. And also just, if you have input jump into one of these calls and just talk to the people who are championing these directly. 
+
+[00:18:26] **PJ Haggerty:** Or at the very least jump in the discord and see what the conversation is.
+
+[00:18:29] **PJ Haggerty:** Yep. I think there's a lot of good conversation going on over there as well. And with that, thank you for giving us space to talk about this. 
